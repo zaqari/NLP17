@@ -1,0 +1,1942 @@
+ID-1210,0,0,nmod  advcl,Went,0,0,0
+ID-1210,0,0,nmod  advcl,Went,to,hotel,0
+ID-1210,staff,0,nsubjpass  auxpass  cc  conj,courteous,0,0,0
+ID-1210,room,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1210,room,0,nsubj  cop  cc  conj,clean,spacious,clean,0
+ID-1210,0,0,nmod:poss  amod  compound,room,0,0,0
+ID-1210,0,0,nmod:poss  amod  compound,room,2-queen,room,0
+ID-1210,room,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1210,room,0,nsubj  cop  cc  conj,clean,spacious,clean,0
+ID-1210,Room,TV,nsubj  dobj,has,0,0,0
+ID-1210,0,0,nummod  cc  conj,nights,0,0,0
+ID-1210,We,0,nsubj  advcl,stayed,0,0,0
+ID-1036,hotel,0,nsubj  cop,stunning,0,0,0
+ID-1036,0,0,det  compound,staff,0,0,0
+ID-1036,staff,0,nsubj  cop  advmod,accommodating,0,0,0
+ID-1036,rooms,0,nsubj  cop  advmod,gorgeous,0,0,0
+ID-1036,beds,0,nsubj  cop  advmod,comfortable,0,0,0
+ID-1036,0,0,det  nmod,phone,0,0,0
+ID-1036,0,0,det  nmod,phone,in,bathroom,0
+ID-1162,This,0,nsubj  cop  det  amod  nmod,hotel,0,0,0
+ID-1162,This,0,nsubj  cop  det  amod  nmod,hotel,botique,hotel,0
+ID-1162,This,0,nsubj  cop  det  amod  nmod,hotel,in,Oregon,0
+ID-1162,rooms,0,nsubj  cop  cc  conj,suites,0,0,0
+ID-1162,hotel,0,nsubj  cop  nmod  advcl,great,0,0,0
+ID-1162,hotel,0,nsubj  cop  nmod  advcl,great,for,families,0
+ID-1162,0,0,case  det  compound  compound  nmod,while,0,0,0
+ID-1162,0,0,case  det  compound  compound  nmod,while,on,vacation,0
+ID-1162,piles,0,mark  expl  nsubj  nmod,are,0,0,0
+ID-1162,piles,0,mark  expl  nsubj  nmod,are,throughout,hotel,0
+ID-1174,that,rates,nsubj  dobj,had,0,0,0
+ID-1174,it,0,mark  nsubj  cop  det  amod  acl:relcl,place,0,0,0
+ID-1174,it,0,mark  nsubj  cop  det  amod  acl:relcl,place,closest,place,0
+ID-1174,0,0,det  amod,inn,0,0,0
+ID-1174,0,0,det  amod,inn,clean,inn,0
+ID-1174,0,0,det  amod,fridge,0,0,0
+ID-1174,0,0,det  amod,fridge,in-room,fridge,0
+ID-1174,beds,0,nsubj  cop  conj  cc  conj,firm,0,0,0
+ID-1174,0,them,dobj  advmod  nmod,took,0,0,0
+ID-1174,0,them,dobj  advmod  nmod,took,in,room,0
+ID-1174,0,0,case  det  amod  compound,buffet,0,0,0
+ID-1174,0,0,case  det  amod  compound,buffet,free,buffet,0
+ID-1174,0,0,mark  nmod:tmod  nmod,start,0,0,0
+ID-1174,0,0,mark  nmod:tmod  nmod,start,with,breakfast,0
+ID-1266,0,0,nmod,greeted,0,0,0
+ID-1266,0,0,nmod,greeted,by,staff,0
+ID-1266,room,0,nsubjpass  auxpass  xcomp  advmod,expected,0,0,0
+ID-1266,room,0,nsubjpass  auxpass  xcomp  advmod,expected,amazing,expected,0
+ID-1266,0,0,det  amod  nmod,door,0,0,0
+ID-1266,0,0,det  amod  nmod,door,back,door,0
+ID-1266,0,0,det  amod  nmod,door,of,hotel,0
+ID-1266,0,0,det  appos  appos,rooms,0,0,0
+ID-1266,rooms,expectations,ccomp  nsubj  dobj,exceeded,0,0,0
+ID-1266,rooms,expectations,ccomp  nsubj  dobj,exceeded,amazing,exceeded,0
+ID-1274,rooms,0,nsubj  cop  ccomp  cc  conj,spacious,0,0,0
+ID-1274,rooms,0,nsubj  cop  ccomp  cc  conj,spacious,kid-friendly,spacious,0
+ID-1274,rooms,0,nsubj  cop  ccomp  cc  conj,spacious,gorgeous,spacious,0
+ID-1274,they,0,mark  nsubj  cop  case  det  compound  neg  advmod  dep,park,0,0,0
+ID-1146,It,0,nsubj  nmod  nmod,started,0,0,0
+ID-1146,It,0,nsubj  nmod  nmod,started,with,upgrade,0
+ID-1146,It,0,nsubj  nmod  nmod,started,to,room,0
+ID-1146,hotel,0,nsubj  cop  case  det  amod  nmod  acl:relcl,part,0,0,0
+ID-1146,hotel,0,nsubj  cop  case  det  amod  nmod  acl:relcl,part,quaint,part,0
+ID-1146,hotel,0,nsubj  cop  case  det  amod  nmod  acl:relcl,part,of,hand,0
+ID-1146,rooms,0,nsubj  cop  case  det  amod,side,0,0,0
+ID-1146,rooms,0,nsubj  cop  case  det  amod,side,smaller,side,0
+ID-1146,this,0,advmod  nsubjpass  auxpass  compound:prt  nmod,made,0,0,0
+ID-1146,this,0,advmod  nsubjpass  auxpass  compound:prt  nmod,made,for,service,0
+ID-1146,this,0,advmod  nsubjpass  auxpass  compound:prt  nmod,made,with,service,0
+ID-1146,room,0,nsubj  cop  advmod  cc  conj,luxurious,0,0,0
+ID-1146,room,0,nsubj  cop  advmod  cc  conj,luxurious,comfortable,luxurious,0
+ID-1146,I,0,nsubj  aux  advmod  nmod,seen,0,0,0
+ID-1146,I,0,nsubj  aux  advmod  nmod,seen,in,hotel,0
+ID-1146,0,0,det  compound,linens,0,0,0
+ID-1146,0,0,case  det  nmod,taking,0,0,0
+ID-1146,0,0,case  det  nmod,taking,throughout,hotel,0
+ID-1146,staff,us,nsubj  dobj  nmod  dobj  dep,knew,0,0,0
+ID-1146,staff,us,nsubj  dobj  nmod  dobj  dep,knew,by,name,0
+ID-1074,staff,0,nsubj  cop  advmod  cc  conj  cc  conj,professional,0,0,0
+ID-1074,room,0,nsubj  cop  advmod  cc  conj  dep  parataxis,clean,0,0,0
+ID-1074,room,0,nsubj  cop  advmod  cc  conj  dep  parataxis,clean,comfortable,clean,0
+ID-1074,beds,0,nsubj  cop  advmod  advmod  nmod  nmod,comfortable,0,0,0
+ID-1074,beds,0,nsubj  cop  advmod  advmod  nmod  nmod,comfortable,as,mine,0
+ID-1074,beds,0,nsubj  cop  advmod  advmod  nmod  nmod,comfortable,at,home,0
+ID-1074,room,0,nsubj  cop  advmod  cc  conj  dep  parataxis,clean,0,0,0
+ID-1074,room,0,nsubj  cop  advmod  cc  conj  dep  parataxis,clean,comfortable,clean,0
+ID-1064,0,0,case  det  compound,Roanoke,0,0,0
+ID-1064,0,0,nmod  nmod,waiting,0,0,0
+ID-1064,0,0,nmod  nmod,waiting,for,us,0
+ID-1064,0,0,nmod  nmod,waiting,in,room,0
+ID-1064,0,0,nmod  nmod,waiting,in,room,0
+ID-1064,0,luxury,mark  dobj  nmod,enjoy,0,0,0
+ID-1064,0,luxury,mark  dobj  nmod,enjoy,in,Room,0
+ID-1064,walkway,hotel,nsubj  dobj  nmod,connects,0,0,0
+ID-1064,walkway,hotel,nsubj  dobj  nmod,connects,with,shops,0
+ID-1246,Marriot,0,nsubj  cop  det  amod,hotel,0,0,0
+ID-1246,Marriot,0,nsubj  cop  det  amod,hotel,amazing,hotel,0
+ID-1246,0,0,case  det:predet  det  nmod,location,0,0,0
+ID-1246,0,0,case  det:predet  det  nmod,location,of,hotel,0
+ID-1246,I,hotel,advmod  nsubj  dobj,left,0,0,0
+ID-1246,room,0,nsubj  cop  cc  conj,spectacular,0,0,0
+ID-1246,0,0,case  cc  conj,mine,0,0,0
+ID-1246,beds,0,nsubj  cop  cc  conj  ccomp  nsubj  cop  advmod  advmod,nice,0,0,0
+ID-1246,beds,0,nsubj  cop  cc  conj  ccomp  nsubj  cop  advmod  advmod,nice,clean,nice,0
+ID-1246,beds,0,nsubj  cop  cc  conj  ccomp  nsubj  cop  advmod  advmod,nice,0,0,0
+ID-1246,beds,0,nsubj  cop  cc  conj  ccomp  nsubj  cop  advmod  advmod,nice,clean,nice,0
+ID-1246,0,0,det  compound,amenities,0,0,0
+ID-1246,room,0,nsubj  cop  advmod,wonderful,0,0,0
+ID-1046,0,0,det  compound,staff,0,0,0
+ID-1046,staff,us,nsubj  dobj  nmod  cc  conj,greeted,0,0,0
+ID-1046,staff,us,nsubj  dobj  nmod  cc  conj,greeted,with,faces,0
+ID-1046,0,0,det  nmod,grounds,0,0,0
+ID-1046,0,0,det  nmod,grounds,to,hotel,0
+ID-1046,rooms,0,nsubj  cop,luxurious,0,0,0
+ID-1046,beds,rest,nsubj  dobj,provided,0,0,0
+ID-1160,hotels,0,nsubj  cop  det  amod  nmod,value,0,0,0
+ID-1160,hotels,0,nsubj  cop  det  amod  nmod,value,best,value,0
+ID-1160,hotels,0,nsubj  cop  det  amod  nmod,value,for,money,0
+ID-1160,0,0,advmod  cc  conj  cc  conj,helpful,0,0,0
+ID-1160,0,0,advmod  cc  conj  cc  conj,helpful,friendly,helpful,0
+ID-1160,0,0,det  acl  cc  conj,idea,0,0,0
+ID-1160,hotel,one,nsubj  dobj  nsubj  nmod,had,0,0,0
+ID-1160,hotel,one,nsubj  dobj  nsubj  nmod,had,at,hotel,0
+ID-1160,0,0,nmod,one,0,0,0
+ID-1160,0,0,nmod,one,of,breakfast,0
+ID-1160,0,0,det  amod  nmod,selection,0,0,0
+ID-1160,0,0,det  amod  nmod,selection,huge,selection,0
+ID-1160,0,0,det  amod  nmod,selection,of,food,0
+ID-1160,rooms,0,nsubj  cop  cc  conj  advcl,big,0,0,0
+ID-1160,rooms,0,nsubj  cop  cc  conj  advcl,big,spacious,big,0
+ID-1160,I,hotel,nsubj  aux  advmod  dobj  nmod,recommend,0,0,0
+ID-1160,I,hotel,nsubj  aux  advmod  dobj  nmod,recommend,to,anyone,0
+ID-1160,0,0,case  det  amod  compound,experiences,0,0,0
+ID-1160,0,0,case  det  amod  compound,experiences,best,experiences,0
+ID-1230,hotel,0,nsubj  cop  advmod  advmod  dep,beautiful,0,0,0
+ID-1230,room,view,nsubj  dobj  cc  conj,had,0,0,0
+ID-1230,bed,0,nsubj  cop  advmod  cc  conj,soft,0,0,0
+ID-1194,staff,0,nsubj  cop  advmod  cc  conj,nice,0,0,0
+ID-1194,staff,0,nsubj  cop  advmod  cc  conj,nice,accomodating,nice,0
+ID-1194,room,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1194,room,0,nsubj  cop  cc  conj,clean,spacious,clean,0
+ID-1194,room,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1194,room,0,nsubj  cop  cc  conj,clean,spacious,clean,0
+ID-1194,bed,0,nsubj  cop  advmod,comfortable,0,0,0
+ID-1194,breakfast,0,nsubj  xcomp  nmod,came,0,0,0
+ID-1194,breakfast,0,nsubj  xcomp  nmod,came,free,came,0
+ID-1194,breakfast,0,nsubj  xcomp  nmod,came,with,stay,0
+ID-1134,I,decision,advcl  nsubj  dobj  advcl,made,0,0,0
+ID-1134,which,tickets,nsubj  dobj  nmod,included,0,0,0
+ID-1134,which,tickets,nsubj  dobj  nmod,included,at,hotel,0
+ID-1134,0,0,nmod:poss  compound,location,0,0,0
+ID-1134,0,0,nmod:poss  amod,amenities,0,0,0
+ID-1134,0,0,nmod:poss  amod,amenities,s,hotel,0
+ID-1134,0,0,nmod:poss  amod,amenities,various,amenities,0
+ID-1134,we,room,nmod  parataxis  nsubj  advmod  dobj,had,0,0,0
+ID-1134,we,room,nmod  parataxis  nsubj  advmod  dobj,had,By,time,0
+ID-1134,Empress,0,nsubj  cop  nmod,famous,0,0,0
+ID-1134,Empress,0,nsubj  cop  nmod,famous,for,service,0
+ID-1134,hotel,0,nsubj  cop  advmod  nmod  parataxis,romantic,0,0,0
+ID-1134,hotel,0,nsubj  cop  advmod  nmod  parataxis,romantic,in,snow,0
+ID-1134,0,0,nmod,snuggled,0,0,0
+ID-1134,0,0,nmod,snuggled,into,sheets,0
+ID-1134,room,0,advcl  parataxis  nsubj,offered,0,0,0
+ID-1134,room,0,advcl  parataxis  nsubj,offered,famous,offered,0
+ID-1134,0,0,case  det  amod  nmod,fire,0,0,0
+ID-1134,0,0,case  det  amod  nmod,fire,in,Room,0
+ID-1134,We,breakfast,nsubj  dobj,had,0,0,0
+ID-1134,0,0,case  nmod  acl,night,0,0,0
+ID-1134,0,0,case  nmod  acl,night,in,room,0
+ID-1134,hotel,0,nsubj  cop  nmod  acl:relcl,one,0,0,0
+ID-1134,hotel,0,nsubj  cop  nmod  acl:relcl,one,few,one,0
+ID-1134,hotel,0,nsubj  cop  nmod  acl:relcl,one,of,few,0
+ID-1202,rooms,0,nsubj  cop,great,0,0,0
+ID-1202,0,0,det  nmod,layout,0,0,0
+ID-1202,0,0,det  nmod,layout,of,room,0
+ID-1202,0,food,mark  dobj  nmod,get,0,0,0
+ID-1202,0,food,mark  dobj  nmod,get,from,Bills,0
+ID-1202,Bills,0,advmod  nsubj  cop,closed,0,0,0
+ID-1112,hotels,0,nsubj  cop  det  amod  acl  det,way,0,0,0
+ID-1112,hotels,0,nsubj  cop  det  amod  acl  det,way,great,way,0
+ID-1112,0,hotel,mark  advmod  dobj,leave,0,0,0
+ID-1234,hotel,0,nsubj  cop  amod  acl:relcl,themed,0,0,0
+ID-1234,hotel,0,nsubj  cop  amod  acl:relcl,themed,rainforest,themed,0
+ID-1182,staff,distance,nsubj  cop  advmod  mark  dobj,walking,0,0,0
+ID-1182,room,0,nsubj  cop  advmod  cc  conj,clean,0,0,0
+ID-1182,room,0,nsubj  cop  advmod  cc  conj,clean,nice,clean,0
+ID-1182,room,0,nsubj  cop  advmod  cc  conj,clean,0,0,0
+ID-1182,room,0,nsubj  cop  advmod  cc  conj,clean,nice,clean,0
+ID-1098,Westin,0,nsubj  cop  advmod  nmod:poss  amod  acl:relcl,hotel,0,0,0
+ID-1098,Westin,0,nsubj  cop  advmod  nmod:poss  amod  acl:relcl,hotel,by,far,0
+ID-1098,Westin,0,nsubj  cop  advmod  nmod:poss  amod  acl:relcl,hotel,favorite,hotel,0
+ID-1098,0,0,det  amod  amod  cc  conj,bedspreads,0,0,0
+ID-1098,0,0,det  amod  amod  cc  conj,bedspreads,fluffy,bedspreads,0
+ID-1098,0,0,det  amod  amod  cc  conj,bedspreads,white,bedspreads,0
+ID-1098,bedspreads,0,nsubj  aux  ccomp,make,0,0,0
+ID-1098,service,0,nsubj  cop  cc  conj,prompt,0,0,0
+ID-1098,service,0,nsubj  cop  cc  conj,prompt,delicious,prompt,0
+ID-1098,staff,0,nsubj  cop  advmod  cc  conj  cc  conj,courteous,0,0,0
+ID-1098,staff,0,nsubj  cop  advmod  cc  conj  cc  conj,courteous,respectful,courteous,0
+ID-1098,staff,0,nsubj  cop  advmod  cc  conj  cc  conj,courteous,prompt,courteous,0
+ID-1098,0,0,det  compound,service,0,0,0
+ID-1098,They,bar,nsubj  dobj  nmod,offer,0,0,0
+ID-1098,They,bar,nsubj  dobj  nmod,offer,with,bedrooms,0
+ID-1098,They,bar,nsubj  dobj  nmod,offer,0,0,0
+ID-1098,They,bar,nsubj  dobj  nmod,offer,with,bedrooms,0
+ID-1098,tons,0,expl  nsubj  nmod,are,0,0,0
+ID-1098,tons,0,expl  nsubj  nmod,are,from,hotel,0
+ID-1098,0,0,mark  cop  det,bathrooms,0,0,0
+ID-1120,staff,us,nsubj  dobj  advcl,greeted,0,0,0
+ID-1120,0,us,dobj  nmod,directed,0,0,0
+ID-1120,0,us,dobj  nmod,directed,to,rooms,0
+ID-1120,room,0,nsubj  cop  cc  conj  cc  conj,nice,0,0,0
+ID-1120,room,0,nsubj  cop  cc  conj  cc  conj,nice,clean,nice,0
+ID-1120,room,0,nsubj  cop  cc  conj  cc  conj,nice,well-appointed,nice,0
+ID-1120,room,0,nsubj  cop  cc  conj  cc  conj,nice,0,0,0
+ID-1120,room,0,nsubj  cop  cc  conj  cc  conj,nice,clean,nice,0
+ID-1120,room,0,nsubj  cop  cc  conj  cc  conj,nice,well-appointed,nice,0
+ID-1120,0,0,compound  cc  conj,counters,0,0,0
+ID-1228,0,0,det  amod  amod  nmod,stay,0,0,0
+ID-1228,0,0,det  amod  amod  nmod,stay,wonderful,stay,0
+ID-1228,0,0,det  amod  amod  nmod,stay,relaxed,stay,0
+ID-1228,0,0,det  amod  amod  nmod,stay,at,Hotel,0
+ID-1228,staff,0,nsubj  ccomp,treated,0,0,0
+ID-1228,I,0,nsubj  aux  neg  nmod  cc  conj,staying,0,0,0
+ID-1228,I,0,nsubj  aux  neg  nmod  cc  conj,staying,in,room,0
+ID-1228,0,0,case  det  compound,restaurant,0,0,0
+ID-1228,0,0,case  amod  cc  conj,rooms,0,0,0
+ID-1228,0,0,case  amod  cc  conj,rooms,beautiful,rooms,0
+ID-1228,0,0,case  nmod,addition,0,0,0
+ID-1228,0,0,case  nmod,addition,to,rooms,0
+ID-1228,0,0,det  nmod,amenities,0,0,0
+ID-1228,0,0,det  nmod,amenities,of,hotel,0
+ID-1106,0,0,cop  advmod  nmod,excited,0,0,0
+ID-1106,0,0,cop  advmod  nmod,excited,by,room,0
+ID-1106,bathroom,0,nsubj  cop  advmod,luxorious,0,0,0
+ID-1106,We,room,nsubj  dobj  advmod,tried,0,0,0
+ID-1106,0,0,det  compound,staff,0,0,0
+ID-1106,staff,0,nsubj  cop  cc  conj,helpful,0,0,0
+ID-1106,staff,0,nsubj  cop  cc  conj,helpful,freindly,helpful,0
+ID-1258,I,0,nsubj  nmod  nmod:tmod,stayed,0,0,0
+ID-1258,I,0,nsubj  nmod  nmod:tmod,stayed,at,hotel,0
+ID-1258,staff,0,nsubj  cop  advmod  cc  conj  cc  conj,friendly,0,0,0
+ID-1258,staff,0,nsubj  cop  advmod  cc  conj  cc  conj,friendly,accomodating,friendly,0
+ID-1258,staff,0,nsubj  cop  advmod  cc  conj  cc  conj,friendly,neat,friendly,0
+ID-1258,rooms,0,nsubj  cop  cc  conj,neat,0,0,0
+ID-1258,rooms,0,nsubj  cop  cc  conj,neat,clean,neat,0
+ID-1258,rooms,0,nsubj  cop  cc  conj,neat,0,0,0
+ID-1258,rooms,0,nsubj  cop  cc  conj,neat,clean,neat,0
+ID-1258,0,0,amod,areas,0,0,0
+ID-1258,0,0,amod,areas,separate,areas,0
+ID-1258,I,hotel,nsubj  aux  advmod  dobj  cc  conj,recommend,0,0,0
+ID-1116,0,0,amod  amod  cc  conj,breakfast,0,0,0
+ID-1116,0,0,amod  amod  cc  conj,breakfast,Very,breakfast,0
+ID-1116,0,0,amod  amod  cc  conj,breakfast,decent,breakfast,0
+ID-1116,I,hotel,nsubj  aux  advmod  dobj  nmod  cc  conj,recommend,0,0,0
+ID-1116,I,hotel,nsubj  aux  advmod  dobj  nmod  cc  conj,recommend,to,friends,0
+ID-1102,service,0,nsubj  cop,quick,0,0,0
+ID-1102,hotel,0,nsubj  cop  advcl  cc  conj,enjoyable,0,0,0
+ID-1102,hotel,0,nsubj  cop  advcl  cc  conj,enjoyable,reasonable,enjoyable,0
+ID-1102,hotel,0,nsubj  cop  advcl  cc  conj,enjoyable,quick,enjoyable,0
+ID-1212,I,times,nsubj  aux  nmod  dobj  cc  conj,stayed,0,0,0
+ID-1212,I,times,nsubj  aux  nmod  dobj  cc  conj,stayed,at,hotel,0
+ID-1212,rooms,0,nsubj  cop  advmod  dep  cc  conj,furnished,0,0,0
+ID-1212,0,0,advmod  xcomp,kept,0,0,0
+ID-1212,0,0,advmod  xcomp,kept,clean,kept,0
+ID-1212,0,0,compound,towels,0,0,0
+ID-1212,linens,0,advmod  nsubj  aux  advmod  cop  cc  conj,clean,0,0,0
+ID-1212,linens,0,advmod  nsubj  aux  advmod  cop  cc  conj,clean,plentiful,clean,0
+ID-1212,that,0,nsubj  cop  advmod  advmod  nmod,comfortable,0,0,0
+ID-1212,that,0,nsubj  cop  advmod  advmod  nmod,comfortable,as,beds,0
+ID-1224,staff,0,nsubj  cop  conj  cc  conj,great,0,0,0
+ID-1224,rooms,0,nsubj  cop  nmod,all,0,0,0
+ID-1224,rooms,0,nsubj  cop  nmod,all,on,floor,0
+ID-1224,we,breakfast,nsubj  advmod  dobj,had,0,0,0
+ID-1224,0,0,det  compound  cc  conj,Location,0,0,0
+ID-1224,0,0,mark  nmod  dep,staying,0,0,0
+ID-1224,0,0,mark  nmod  dep,staying,at,hotel,0
+ID-1270,hotel,0,nsubj  cop  nmod,wonderful,0,0,0
+ID-1270,hotel,0,nsubj  cop  nmod,wonderful,for,events,0
+ID-1248,0,0,nmod:poss  nmod  nmod,stay,0,0,0
+ID-1248,0,0,nmod:poss  nmod  nmod,stay,at,hotel,0
+ID-1248,0,0,nmod:poss  nmod  nmod,stay,in,Ft,0
+ID-1248,plans,0,nsubj  nmod  nmod  advcl,fell,0,0,0
+ID-1248,plans,0,nsubj  nmod  nmod  advcl,fell,through,room,0
+ID-1248,plans,0,nsubj  nmod  nmod  advcl,fell,at,Rennaissance,0
+ID-1248,rates,0,nsubj  cop  dep,great,0,0,0
+ID-1248,I,0,nsubj  cop  advmod  nmod  nmod,happy,0,0,0
+ID-1248,I,0,nsubj  cop  advmod  nmod  nmod,happy,with,amenities,0
+ID-1248,I,0,nsubj  cop  advmod  nmod  nmod,happy,at,hotel,0
+ID-1248,food,0,nsubj  cop,scrumptious,0,0,0
+ID-1248,room,0,nsubj  cop  cc  conj,beautiful,0,0,0
+ID-1248,bed,0,nsubj  cop  advmod  cc  conj,comfortable,0,0,0
+ID-1248,service,0,nsubj  cop,impeccable,0,0,0
+ID-1248,I,choice,advcl  nsubj  aux  iobj  dobj,make,0,0,0
+ID-1226,rooms,0,nsubj  cop  advmod  ccomp  ccomp  cc  conj,clean,0,0,0
+ID-1226,rooms,0,nsubj  cop  advmod  ccomp  ccomp  cc  conj,clean,unaware,clean,0
+ID-1226,rooms,0,nsubj  cop  advmod  ccomp  ccomp  cc  conj,clean,0,0,0
+ID-1226,rooms,0,nsubj  cop  advmod  ccomp  ccomp  cc  conj,clean,unaware,clean,0
+ID-1226,Quinta,rooms,advmod  nsubj  advmod  dobj,has,0,0,0
+ID-1132,hotel,0,mark  nsubj  cop,great,0,0,0
+ID-1232,0,0,compound,ive,0,0,0
+ID-1232,0,0,case  appos,all,0,0,0
+ID-1232,0,0,det  amod  compound,upgrade,0,0,0
+ID-1232,0,0,det  amod  compound,upgrade,free,upgrade,0
+ID-1232,room,0,nsubjpass  auxpass  cc  conj,immaculate,0,0,0
+ID-1232,room,0,nsubjpass  auxpass  cc  conj,immaculate,0,0,0
+ID-1232,service,0,nsubj  cop  cc  conj,hot,0,0,0
+ID-1232,service,0,nsubj  cop  cc  conj,hot,fresh,hot,0
+ID-1232,0,0,compound  cc  conj,service,0,0,0
+ID-1232,0,0,compound  cc  conj,service,0,0,0
+ID-1232,i,hotel,advmod  nsubj  dobj  advmod,give,0,0,0
+ID-1200,hotels,0,advmod  nsubjpass  auxpass  advmod  advmod  cc  conj,booked,0,0,0
+ID-1200,0,rates,dobj,offering,0,0,0
+ID-1200,0,0,amod  conj  cc  conj,parking,0,0,0
+ID-1200,0,0,amod  conj  cc  conj,parking,ample,parking,0
+ID-1200,itself,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1200,itself,0,nsubj  cop  cc  conj,clean,comfortable,clean,0
+ID-1066,hotel,0,nsubj  cop  det  amod,stay,0,0,0
+ID-1066,hotel,0,nsubj  cop  det  amod,stay,nice,stay,0
+ID-1066,beds,0,nsubj  cop  cc  conj,comfortable,0,0,0
+ID-1066,0,0,det  amod  nmod,variety,0,0,0
+ID-1066,0,0,det  amod  nmod,variety,nice,variety,0
+ID-1066,0,0,det  amod  nmod,variety,of,foods,0
+ID-1066,breakfast,variety,nsubj  dobj,included,0,0,0
+ID-1244,I,0,nsubj  nmod  advcl,stayed,0,0,0
+ID-1244,I,0,nsubj  nmod  advcl,stayed,in,hotel,0
+ID-1244,This,0,nsubj  cop  det  amod,hotel,0,0,0
+ID-1244,This,0,nsubj  cop  det  amod,hotel,amazing,hotel,0
+ID-1244,Bed,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1244,Bed,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1244,Staff,0,nsubj  cop  advmod  advcl,quick,0,0,0
+ID-1188,hotel,breakfast,nsubj  dobj,had,0,0,0
+ID-1188,hotel,breakfast,nsubj  dobj,had,0,0,0
+ID-1188,hotel,0,mark  nsubj  cop  advmod  cc  conj  cc  conj,polite,0,0,0
+ID-1188,I,hotel,nsubj  aux  advmod  dobj  advmod  advcl  cc  conj,choose,0,0,0
+ID-1072,It,combination,nsubj  cop  cc  conj  dobj,clean,0,0,0
+ID-1072,It,combination,nsubj  cop  cc  conj  dobj,clean,inexpensive,clean,0
+ID-1072,It,combination,nsubj  cop  cc  conj  dobj,clean,0,0,0
+ID-1072,It,combination,nsubj  cop  cc  conj  dobj,clean,inexpensive,clean,0
+ID-1072,0,0,det  compound,staff,0,0,0
+ID-1072,staff,0,nsubj  cop  cc  conj,friendly,0,0,0
+ID-1072,staff,0,nsubj  cop  cc  conj,friendly,informative,friendly,0
+ID-1072,hotel,0,nsubj  advmod  ccomp  cc  conj,was,0,0,0
+ID-1072,hotel,0,nsubj  advmod  ccomp  cc  conj,was,friendly,was,0
+ID-1072,beds,0,nsubj  cop,soft,0,0,0
+ID-1124,Resort,0,nsubj  cop  det  compound  acl:relcl,Hotel,0,0,0
+ID-1124,rooms,0,nsubj  cop  cc  conj,spacious,0,0,0
+ID-1124,rooms,0,nsubj  cop  cc  conj,spacious,bright,spacious,0
+ID-1124,staff,0,nsubj  cop  advmod  cc  conj  nmod,friendly,0,0,0
+ID-1124,staff,0,nsubj  cop  advmod  cc  conj  nmod,friendly,to,needs,0
+ID-1222,0,0,case  cc  conj,restaurants,0,0,0
+ID-1222,room,floor,nsubj  dobj  nmod,had,0,0,0
+ID-1222,room,floor,nsubj  dobj  nmod,had,with,view,0
+ID-1222,0,0,case  det  compound,mirror,0,0,0
+ID-1222,0,0,nmod,all,0,0,0
+ID-1222,0,0,nmod,all,of,staff,0
+ID-1222,hotel,0,nsubj  cop  neg  cc  conj  nmod,stuffy,0,0,0
+ID-1222,hotel,0,nsubj  cop  neg  cc  conj  nmod,stuffy,uppity,stuffy,0
+ID-1222,hotel,0,nsubj  cop  neg  cc  conj  nmod,stuffy,like,hotels,0
+ID-1222,0,0,case  det  amod  nmod,places,0,0,0
+ID-1222,0,0,case  det  amod  nmod,places,various,places,0
+ID-1222,0,0,case  det  amod  nmod,places,in,hotel,0
+ID-1222,0,0,det  amod  cc  conj,atmosphere,0,0,0
+ID-1222,0,0,det  amod  cc  conj,atmosphere,great,atmosphere,0
+ID-1222,service,0,nsubj  cop,amazing,0,0,0
+ID-1222,0,0,compound  nmod,service,0,0,0
+ID-1222,0,0,compound  nmod,service,for,breakfast,0
+ID-1222,0,0,compound  nmod,service,0,0,0
+ID-1222,0,0,compound  nmod,service,for,breakfast,0
+ID-1150,hotel,0,nsubj  cop  advmod,nice,0,0,0
+ID-1150,room,0,nsubj  cop  advmod  cc  conj,clean,0,0,0
+ID-1150,room,0,nsubj  cop  advmod  cc  conj,clean,comfortable,clean,0
+ID-1150,bed,0,nsubj  cop,comfortable,0,0,0
+ID-1150,room,0,nsubj  cop  advmod  cc  conj,clean,0,0,0
+ID-1150,room,0,nsubj  cop  advmod  cc  conj,clean,comfortable,clean,0
+ID-1150,0,0,det  amod  cc  conj  nmod,bar,0,0,0
+ID-1150,0,0,det  amod  cc  conj  nmod,bar,nice,bar,0
+ID-1150,0,0,det  amod  cc  conj  nmod,bar,inside,hotel,0
+ID-1150,0,0,nmod:poss  compound  nmod,rate,0,0,0
+ID-1150,0,0,nmod:poss  compound  nmod,rate,including,buffet,0
+ID-1150,0,0,case  det  amod  compound,buffet,0,0,0
+ID-1150,0,0,case  det  amod  compound,buffet,great,buffet,0
+ID-1150,0,breakfast,dobj,buy,0,0,0
+ID-1184,hotel,0,advmod  mark  nsubj  cop  ccomp,seperate,0,0,0
+ID-1184,hotel,0,advmod  mark  nsubj  cop  ccomp,seperate,nice,seperate,0
+ID-1184,hotel,0,advmod  mark  nsubj  cop  ccomp,seperate,0,0,0
+ID-1184,hotel,0,advmod  mark  nsubj  cop  ccomp,seperate,nice,seperate,0
+ID-1184,0,0,mark  auxpass  nmod  nmod,delivered,0,0,0
+ID-1184,0,0,mark  auxpass  nmod  nmod,delivered,to,room,0
+ID-1184,0,0,mark  auxpass  nmod  nmod,delivered,as,surpise,0
+ID-1184,knock,0,advmod  expl  nsubj  nmod,was,0,0,0
+ID-1184,knock,0,advmod  expl  nsubj  nmod,was,from,service,0
+ID-1184,0,0,case  compound  acl,service,0,0,0
+ID-1184,0,0,case  det  compound,coma,0,0,0
+ID-1184,0,0,auxpass  compound:prt  nmod,picked,0,0,0
+ID-1184,0,0,auxpass  compound:prt  nmod,picked,from,room,0
+ID-1184,0,0,auxpass  compound:prt  nmod,picked,outside,room,0
+ID-1184,0,0,auxpass  compound:prt  nmod,picked,of,room,0
+ID-1184,0,0,compound:prt  nmod,driven,0,0,0
+ID-1184,0,0,compound:prt  nmod,driven,to,room,0
+ID-1082,hotel,0,nsubj  advmod,is,0,0,0
+ID-1082,hotel,lot,nsubj  dobj  nmod,had,0,0,0
+ID-1082,hotel,lot,nsubj  dobj  nmod,had,such,pool,0
+ID-1082,0,0,det  compound,price,0,0,0
+ID-1082,hotel,rooms,mark  nmod  nsubj  advmod  dobj,provides,0,0,0
+ID-1082,hotel,rooms,mark  nmod  nsubj  advmod  dobj,provides,for,money,0
+ID-1082,hotel,rooms,mark  nmod  nsubj  advmod  dobj,provides,0,0,0
+ID-1082,hotel,rooms,mark  nmod  nsubj  advmod  dobj,provides,for,money,0
+ID-1082,room,0,nsubj  cop,secure,0,0,0
+ID-1082,It,bathroom,nsubj  dobj,had,0,0,0
+ID-1082,It,closet,nsubj  advmod  dobj,had,0,0,0
+ID-1082,0,0,det  amod  nmod,safe,0,0,0
+ID-1082,0,0,det  amod  nmod,safe,large,safe,0
+ID-1082,0,0,det  amod  nmod,safe,in,room,0
+ID-1082,hotel,0,nsubjpass  auxpass  neg  advmod  xcomp,located,0,0,0
+ID-1082,hotel,0,nsubjpass  auxpass  neg  advmod  xcomp,located,close,located,0
+ID-1082,hotel,0,nsubjpass  auxpass  neg  advmod  xcomp,located,0,0,0
+ID-1082,hotel,0,nsubjpass  auxpass  neg  advmod  xcomp,located,close,located,0
+ID-1082,0,0,mark  advmod  nmod  cc  conj,walk,0,0,0
+ID-1082,0,0,mark  advmod  nmod  cc  conj,walk,outside,hotel,0
+ID-1082,it,0,det  compound  nsubj  cop  det  amod  amod  compound  nmod,lobby,0,0,0
+ID-1082,it,0,det  compound  nsubj  cop  det  amod  amod  compound  nmod,lobby,nice,lobby,0
+ID-1082,it,0,det  compound  nsubj  cop  det  amod  amod  compound  nmod,lobby,open,lobby,0
+ID-1082,it,0,det  compound  nsubj  cop  det  amod  amod  compound  nmod,lobby,with,tables,0
+ID-1082,0,breakfast,dobj,have,0,0,0
+ID-1082,I,hotel,nsubj  aux  advmod  dobj  nmod  cc  conj,recommend,0,0,0
+ID-1082,I,hotel,nsubj  aux  advmod  dobj  nmod  cc  conj,recommend,to,anyone,0
+ID-1060,hotel,0,nsubj  cop,incredible,0,0,0
+ID-1060,0,0,det  amod  nmod,fridge,0,0,0
+ID-1060,0,0,det  amod  nmod,fridge,mini,fridge,0
+ID-1060,0,0,det  amod  nmod,fridge,in,room,0
+ID-1060,beds,0,nsubj  cop  cc  conj,comfortable,0,0,0
+ID-1060,staff,0,nsubj  cop,respectful,0,0,0
+ID-1060,They,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1060,They,0,nsubj  cop  cc  conj,clean,respectful,clean,0
+ID-1060,services,0,nsubj  cop,perfect,0,0,0
+ID-1054,hotel,0,nsubj  cop  advmod  nmod,accommodating,0,0,0
+ID-1054,hotel,0,nsubj  cop  advmod  nmod,accommodating,to,needs,0
+ID-1054,queen,bed,nsubj  dobj  nmod,sized,0,0,0
+ID-1054,queen,bed,nsubj  dobj  nmod,sized,for,daughter,0
+ID-1054,breakfast,0,nsubj  cop  dep  cc  advmod  nmod,enough,0,0,0
+ID-1054,breakfast,0,nsubj  cop  dep  cc  advmod  nmod,enough,simple,enough,0
+ID-1054,breakfast,0,nsubj  cop  dep  cc  advmod  nmod,enough,for,taste,0
+ID-1054,0,0,mark  nmod  advmod,pay,0,0,0
+ID-1054,0,0,mark  nmod  advmod,pay,for,breakfast,0
+ID-1054,0,0,nmod,staying,0,0,0
+ID-1054,0,0,nmod,staying,in,hotel,0
+ID-1052,I,0,nsubj  advmod  nmod  nmod  nmod,stayed,0,0,0
+ID-1052,I,0,nsubj  advmod  nmod  nmod  nmod,stayed,at,Hotel,0
+ID-1052,I,0,nsubj  advmod  nmod  nmod  nmod,stayed,in,West,0
+ID-1052,I,0,nsubj  advmod  nmod  nmod  nmod,stayed,off,roadway,0
+ID-1238,0,0,advmod  nmod,driven,0,0,0
+ID-1238,0,0,advmod  nmod,driven,in,service,0
+ID-1238,0,0,det  cc  conj  nmod,staff,0,0,0
+ID-1238,0,0,det  cc  conj  nmod,staff,of,hotel,0
+ID-1238,staff,0,nsubj  aux  advmod  cop  cc  conj,friendly,0,0,0
+ID-1238,0,0,nmod:poss,location,0,0,0
+ID-1238,0,0,nmod:poss,location,s,hotel,0
+ID-1238,I,0,nsubj  advmod  nmod,stayed,0,0,0
+ID-1238,I,0,nsubj  advmod  nmod,stayed,at,hotel,0
+ID-1238,0,0,case  nmod:poss  amod,office,0,0,0
+ID-1238,0,0,case  nmod:poss  amod,office,corporate,office,0
+ID-1238,bed,0,nsubj  aux  advmod  cop  compound  advcl,class,0,0,0
+ID-1238,I,trip,nsubj  nmod  dobj,stay,0,0,0
+ID-1238,I,trip,nsubj  nmod  dobj,stay,at,hotel,0
+ID-1238,0,0,compound,friendliness,0,0,0
+ID-1238,0,0,det  compound  cc  conj,comfort,0,0,0
+ID-1042,0,0,mark  advmod  nmod,stop,0,0,0
+ID-1042,0,0,mark  advmod  nmod,stop,at,hotel,0
+ID-1042,0,0,det  compound,facilities,0,0,0
+ID-1042,rooms,0,mark  expl  nsubj,were,0,0,0
+ID-1042,0,0,case  det  amod  compound,change,0,0,0
+ID-1042,0,0,case  det  amod  compound,change,quick,change,0
+ID-1042,we,0,nmod  nsubj  advmod  nmod,headed,0,0,0
+ID-1042,we,0,nmod  nsubj  advmod  nmod,headed,After,dip,0
+ID-1042,we,0,nmod  nsubj  advmod  nmod,headed,to,room,0
+ID-1042,0,bed,mark  dobj,enjoy,0,0,0
+ID-1042,0,0,case  compound  cc  conj,bedding,0,0,0
+ID-1042,breakfast,0,nsubj  cop,superb,0,0,0
+ID-1042,0,0,nmod,looking,0,0,0
+ID-1042,0,0,nmod,looking,for,hotel,0
+ID-1166,Hotel,0,nsubj  cop  det  amod,hotel,0,0,0
+ID-1166,Hotel,0,nsubj  cop  det  amod,hotel,gorgeous,hotel,0
+ID-1166,Hotel,0,nsubj  cop  det  amod,hotel,0,0,0
+ID-1166,Hotel,0,nsubj  cop  det  amod,hotel,gorgeous,hotel,0
+ID-1166,service,0,nsubj  cop  amod  nmod,food,0,0,0
+ID-1166,service,0,nsubj  cop  amod  nmod,food,terrific,food,0
+ID-1166,service,0,nsubj  cop  amod  nmod,food,at,restaurants,0
+ID-1166,service,0,nsubj  cop  amod  nmod,food,0,0,0
+ID-1166,service,0,nsubj  cop  amod  nmod,food,terrific,food,0
+ID-1166,service,0,nsubj  cop  amod  nmod,food,at,restaurants,0
+ID-1166,you,0,nsubj  aux  nmod,go,0,0,0
+ID-1166,you,0,nsubj  aux  nmod,go,to,hotels,0
+ID-1180,I,hotel,nsubj  advmod  dobj,loved,0,0,0
+ID-1180,bathroom,0,nsubj  cop  case  amod,size,0,0,0
+ID-1180,bathroom,0,nsubj  cop  case  amod,size,decent,size,0
+ID-1180,beds,0,nsubj  cop,comfortable,0,0,0
+ID-1180,staff,0,nsubj  cop  advmod  cc  conj  parataxis,amazing,0,0,0
+ID-1180,staff,0,nsubj  cop  advmod  cc  conj  parataxis,amazing,hospitable,amazing,0
+ID-1180,0,0,case  nmod:poss  amod  nmod,parts,0,0,0
+ID-1180,0,0,case  nmod:poss  amod  nmod,parts,favorite,parts,0
+ID-1180,0,0,case  nmod:poss  amod  nmod,parts,of,hotel,0
+ID-1180,0,0,case  amod  compound  compound,skills,0,0,0
+ID-1180,0,0,case  amod  compound  compound,skills,exceptional,skills,0
+ID-1180,it,0,advcl  nsubj  cop  advmod  nmod  advcl,one,0,0,0
+ID-1180,it,0,advcl  nsubj  cop  advmod  nmod  advcl,one,of,hotels,0
+ID-1044,Hotel,0,nsubj  cop  advmod,amazing,0,0,0
+ID-1044,0,0,advmod  cc  conj,accessible,0,0,0
+ID-1044,0,0,advmod  cc  conj,accessible,clean,accessible,0
+ID-1044,rooms,0,nsubj  cop  advmod  cc  conj,updated,0,0,0
+ID-1044,staff,0,nsubj  cop  advmod  cc  conj,friendly,0,0,0
+ID-1044,They,us,nsubj  advmod  dobj  nmod  nmod,upgraded,0,0,0
+ID-1044,They,us,nsubj  advmod  dobj  nmod  nmod,upgraded,to,room,0
+ID-1044,They,us,nsubj  advmod  dobj  nmod  nmod,upgraded,upon,arrival,0
+ID-1272,0,room,dobj,having,0,0,0
+ID-1272,0,them,mark  dobj  nmod  advcl,putting,0,0,0
+ID-1272,0,them,mark  dobj  nmod  advcl,putting,to,bed,0
+ID-1272,0,room,mark  dobj,have,0,0,0
+ID-1272,0,0,det  amod,room,0,0,0
+ID-1272,0,0,det  amod,room,dirty,room,0
+ID-1084,I,0,mark  nsubj  aux  advmod  nmod  cc  conj,had,0,0,0
+ID-1084,I,0,mark  nsubj  aux  advmod  nmod  cc  conj,had,at,hotel,0
+ID-1084,I,0,mark  nsubj  aux  advmod  nmod  cc  conj,had,clean,had,0
+ID-1084,They,breakfast,nsubj  dobj  cc  conj,had,0,0,0
+ID-1084,suite,0,nsubj  cop  advmod,clean,0,0,0
+ID-1252,This,0,nsubj  cop  det  amod  acl,hotel,0,0,0
+ID-1252,This,0,nsubj  cop  det  amod  acl,hotel,great,hotel,0
+ID-1252,It,close,nsubj  dobj,has,0,0,0
+ID-1252,hotel,0,nsubj  cop  nmod,clean,0,0,0
+ID-1252,hotel,0,nsubj  cop  nmod,clean,0,0,0
+ID-1252,room,0,nsubj  cop  advmod  cc  conj,comfortable,0,0,0
+ID-1252,room,0,nsubj  cop  advmod  cc  conj,comfortable,cleanliness,comfortable,0
+ID-1252,room,0,nsubj  cop  advmod  cc  conj,comfortable,0,0,0
+ID-1252,room,0,nsubj  cop  advmod  cc  conj,comfortable,cleanliness,comfortable,0
+ID-1252,staff,0,nsubj  cop  cc  conj  cc  conj,friendly,0,0,0
+ID-1252,staff,0,nsubj  cop  cc  conj  cc  conj,friendly,helpful,friendly,0
+ID-1252,breakfast,0,nsubj  cop  det  amod,bonus,0,0,0
+ID-1252,breakfast,0,nsubj  cop  det  amod,bonus,great,bonus,0
+ID-1156,rooms,0,nsubj  cop  nmod,accommodating,0,0,0
+ID-1156,rooms,0,nsubj  cop  nmod,accommodating,with,bed,0
+ID-1156,rooms,0,nsubj  cop  nmod,accommodating,0,0,0
+ID-1156,rooms,0,nsubj  cop  nmod,accommodating,with,bed,0
+ID-1156,we,breakfast,mark  nsubj  aux  dobj  nmod  cc  conj,eat,0,0,0
+ID-1156,we,breakfast,mark  nsubj  aux  dobj  nmod  cc  conj,eat,in,room,0
+ID-1156,we,breakfast,mark  nsubj  aux  dobj  nmod  cc  conj,eat,0,0,0
+ID-1156,we,breakfast,mark  nsubj  aux  dobj  nmod  cc  conj,eat,in,room,0
+ID-1156,food,0,nsubj  cop,good,0,0,0
+ID-1156,It,0,nsubj  cop  cc  conj,close,0,0,0
+ID-1156,It,0,nsubj  cop  cc  conj,close,good,close,0
+ID-1156,0,0,det  amod  amod,ship,0,0,0
+ID-1156,0,0,det  amod  amod,ship,pirate,ship,0
+ID-1156,0,0,det  amod  amod,ship,complete,ship,0
+ID-1154,0,0,cc  conj,I-65,0,0,0
+ID-1154,0,0,nmod,check-in,0,0,0
+ID-1154,0,0,nmod,check-in,but,room,0
+ID-1154,bath,0,mark  nsubj  cop,separate,0,0,0
+ID-1154,0,0,case  det  conj  conj,etc,0,0,0
+ID-1154,breakfast,0,nsubj  cop  nmod,one,0,0,0
+ID-1154,breakfast,0,nsubj  cop  nmod,one,best,one,0
+ID-1154,breakfast,0,nsubj  cop  nmod,one,of,best,0
+ID-1154,hotel,0,nsubj  cop  cc  conj  cc  conj,quiet,0,0,0
+ID-1154,hotel,0,nsubj  cop  cc  conj  cc  conj,quiet,clean,quiet,0
+ID-1208,0,0,det  amod  conj  cc  conj,decor,0,0,0
+ID-1208,0,0,det  amod  conj  cc  conj,decor,trendy,decor,0
+ID-1208,0,0,det  nmod,issues,0,0,0
+ID-1208,0,0,det  nmod,issues,with,staff,0
+ID-1208,room,0,nsubj  cop  case  det  nmod,gateway,0,0,0
+ID-1208,room,0,nsubj  cop  case  det  nmod,gateway,to,heaven,0
+ID-1208,beds,0,nsubj  cop  ccomp,soft,0,0,0
+ID-1208,bathroom,0,nsubjpass  auxpass  nmod,built,0,0,0
+ID-1208,bathroom,0,nsubjpass  auxpass  nmod,built,with,relaxation,0
+ID-1268,Hotel,0,nsubj  cop  det  amod  acl  case  det,place,0,0,0
+ID-1268,Hotel,0,nsubj  cop  det  amod  acl  case  det,place,great,place,0
+ID-1268,0,0,mark  nmod,get,0,0,0
+ID-1268,0,0,mark  nmod,get,to,room,0
+ID-1268,0,0,case  amod  cc  conj,abeyance,0,0,0
+ID-1268,0,0,case  amod  cc  conj,abeyance,good,abeyance,0
+ID-1268,0,0,nmod,offered,0,0,0
+ID-1268,0,0,nmod,offered,inside,hotel,0
+ID-1268,food,0,nsubj  cop,great,0,0,0
+ID-1268,0,0,det  compound,court,0,0,0
+ID-1268,food,0,nsubj  cop  conj  cc  conj  advcl,AWESOME,0,0,0
+ID-1268,food,0,nsubj  cop  conj  cc  conj  advcl,AWESOME,quick,AWESOME,0
+ID-1268,food,0,nsubj  cop  conj  cc  conj  advcl,AWESOME,cheap,AWESOME,0
+ID-1268,food,0,nsubj  cop  conj  cc  conj  advcl,AWESOME,most,AWESOME,0
+ID-1268,I,room,advmod  nsubj  dobj  dep,entered,0,0,0
+ID-1268,I,room,nmod  nsubj  aux  neg  dobj,expecting,0,0,0
+ID-1268,I,room,nmod  nsubj  aux  neg  dobj,expecting,For,rate,0
+ID-1268,I,room,nmod  nsubj  aux  neg  dobj,expecting,0,0,0
+ID-1268,I,room,nmod  nsubj  aux  neg  dobj,expecting,For,rate,0
+ID-1268,bathroom,0,nsubj  cop  advmod  advcl,comfortable,0,0,0
+ID-1268,staff,0,nsubj  cop  det  nmod  dep,sorts,0,0,0
+ID-1268,staff,0,nsubj  cop  det  nmod  dep,sorts,friendly,sorts,0
+ID-1268,staff,0,nsubj  cop  det  nmod  dep,sorts,of,friendly,0
+ID-1268,I,room,ccomp  nsubj  aux  dobj  nmod,booking,0,0,0
+ID-1268,I,room,ccomp  nsubj  aux  dobj  nmod,booking,at,Riviera,0
+ID-1138,Marriott,0,nsubj  cop  det  amod  ccomp,hotel,0,0,0
+ID-1138,Marriott,0,nsubj  cop  det  amod  ccomp,hotel,fantastic,hotel,0
+ID-1138,I,0,mark  nsubj  advmod  nmod,travel,0,0,0
+ID-1138,I,0,mark  nsubj  advmod  nmod,travel,to,hotel,0
+ID-1138,staff,0,nsubj  cop  advmod  cc  conj,friendly,0,0,0
+ID-1138,rooms,0,nsubj  cop  advmod  advcl,spacious,0,0,0
+ID-1138,rooms,0,nsubj  cop  advmod  advcl,spacious,more,spacious,0
+ID-1138,nights,food,advmod  nsubj  dobj,have,0,0,0
+ID-1138,I,hotel,nsubj  aux  dobj  nmod,recommend,0,0,0
+ID-1138,I,hotel,nsubj  aux  dobj  nmod,recommend,to,anyone,0
+ID-1104,service,0,nsubj  cop  cc  conj,impeccable,0,0,0
+ID-1104,service,0,nsubj  cop  cc  conj,impeccable,perfect,impeccable,0
+ID-1104,0,0,det  nmod,charm,0,0,0
+ID-1104,0,0,det  nmod,charm,of,hotel,0
+ID-1104,0,0,auxpass  nmod,taken,0,0,0
+ID-1104,0,0,auxpass  nmod,taken,to,room,0
+ID-1104,0,0,case  det  compound,restaurants,0,0,0
+ID-1104,food,0,nsubj  cop,delicious,0,0,0
+ID-1094,0,0,det  compound  compound  dep,form,0,0,0
+ID-1094,you,0,nsubj  advmod  nmod,want,0,0,0
+ID-1094,you,0,nsubj  advmod  nmod,want,in,room,0
+ID-1094,0,0,nmod,Some,0,0,0
+ID-1094,0,0,nmod,Some,of,rooms,0
+ID-1094,service,0,nsubj  cop  advmod  case,time,0,0,0
+ID-1094,staff,0,nsubj  cop  cc  conj,helpful,0,0,0
+ID-1094,0,0,compound,service,0,0,0
+ID-1108,bathrooms,towels,nsubj  dobj,had,0,0,0
+ID-1108,rooms,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1108,hotel,pool,nsubj  dobj  cc  conj,had,0,0,0
+ID-1108,that,0,nsubj  cop,clean,0,0,0
+ID-1108,breakfast,0,nsubj  cop  cc  conj,good,0,0,0
+ID-1108,breakfast,0,nsubj  cop  cc  conj,good,fresh,good,0
+ID-1168,0,0,compound,Penn,0,0,0
+ID-1168,0,0,case  nmod  nmod,less,0,0,0
+ID-1168,0,0,case  nmod  nmod,less,than,hotels,0
+ID-1168,0,0,case  nmod  nmod,less,in,NY,0
+ID-1168,room,view,nsubj  advmod  dobj,had,0,0,0
+ID-1168,hotel,0,nsubjpass  auxpass  advmod  nmod  cc  conj,surrounded,0,0,0
+ID-1168,hotel,0,nsubjpass  auxpass  advmod  nmod  cc  conj,surrounded,by,tons,0
+ID-1168,hotel,0,nsubjpass  auxpass  advmod  nmod  cc  conj,surrounded,perfect,surrounded,0
+ID-1142,0,0,det  nmod,reviews,0,0,0
+ID-1142,0,0,det  nmod,reviews,for,hotel,0
+ID-1142,we,0,nmod  nsubjpass  auxpass  nmod  nmod,impressed,0,0,0
+ID-1142,we,0,nmod  nsubjpass  auxpass  nmod  nmod,impressed,Upon,arrival,0
+ID-1142,we,0,nmod  nsubjpass  auxpass  nmod  nmod,impressed,with,service,0
+ID-1142,we,0,nmod  nsubjpass  auxpass  nmod  nmod,impressed,from,hotel,0
+ID-1142,we,0,nmod  nsubjpass  auxpass  nmod  nmod,impressed,0,0,0
+ID-1142,we,0,nmod  nsubjpass  auxpass  nmod  nmod,impressed,Upon,arrival,0
+ID-1142,we,0,nmod  nsubjpass  auxpass  nmod  nmod,impressed,with,service,0
+ID-1142,we,0,nmod  nsubjpass  auxpass  nmod  nmod,impressed,from,hotel,0
+ID-1142,hotel,0,nsubj  cop  case  det  amod  nmod,location,0,0,0
+ID-1142,hotel,0,nsubj  cop  case  det  amod  nmod,location,excellent,location,0
+ID-1142,hotel,0,nsubj  cop  case  det  amod  nmod,location,on,beach,0
+ID-1142,hotel,restaurants,nsubj  dobj,had,0,0,0
+ID-1128,hotel,0,nsubj  cop  advmod  advcl,affordable,0,0,0
+ID-1128,You,rooms,nsubj  aux  dobj  advmod  cc  conj,find,0,0,0
+ID-1128,0,0,compound  acl:relcl  conj  cc  conj,machines,0,0,0
+ID-1128,service,0,nsubj  cop,great,0,0,0
+ID-1128,I,hotel,nsubj  advmod  dobj  nmod  xcomp,recommend,0,0,0
+ID-1128,I,hotel,nsubj  advmod  dobj  nmod  xcomp,recommend,to,anyone,0
+ID-1078,rooms,0,nsubj  aux  neg  cop  advmod,great,0,0,0
+ID-1078,0,0,case  det  compound  compound  acl  cc  conj,Suites,0,0,0
+ID-1078,0,service,dobj,AMAZING,0,0,0
+ID-1078,rooms,0,nsubj  cop  conj  cc  conj,spacious,0,0,0
+ID-1078,rooms,0,nsubj  cop  conj  cc  conj,spacious,clean,spacious,0
+ID-1078,rooms,0,nsubj  cop  conj  cc  conj,spacious,comfortable,spacious,0
+ID-1078,rooms,0,nsubj  cop  conj  cc  conj,spacious,0,0,0
+ID-1078,rooms,0,nsubj  cop  conj  cc  conj,spacious,clean,spacious,0
+ID-1078,rooms,0,nsubj  cop  conj  cc  conj,spacious,comfortable,spacious,0
+ID-1078,they,breakfast,nsubj  dobj,make,0,0,0
+ID-1078,I,hotel,nsubj  aux  neg  dobj  ccomp,believe,0,0,0
+ID-1206,hotel,0,nsubj  cop  nmod,one,0,0,0
+ID-1206,hotel,0,nsubj  cop  nmod,one,of,hotels,0
+ID-1206,shopping,0,nsubj  cop  advmod  det  nmod,best,0,0,0
+ID-1206,shopping,0,nsubj  cop  advmod  det  nmod,best,of,hotels,0
+ID-1206,rooms,0,nsubj  cop  nmod  cc  conj  nmod,ample,0,0,0
+ID-1206,rooms,0,nsubj  cop  nmod  cc  conj  nmod,ample,in,size,0
+ID-1206,rooms,0,nsubj  cop  nmod  cc  conj  nmod,ample,modern,ample,0
+ID-1206,rooms,0,nsubj  cop  nmod  cc  conj  nmod,ample,in,decor,0
+ID-1206,view,0,nsubj  cop  nmod,incredible,0,0,0
+ID-1206,view,0,nsubj  cop  nmod,incredible,from,rooms,0
+ID-1164,Resort,0,nsubj  cop  det  amod  acl,hotel,0,0,0
+ID-1164,Resort,0,nsubj  cop  det  amod  acl,hotel,fabulous,hotel,0
+ID-1164,0,0,case  nmod:poss,balcony,0,0,0
+ID-1164,0,0,case  nmod:poss,balcony,s,room,0
+ID-1164,0,0,amod  cc  conj  nmod,staff,0,0,0
+ID-1164,0,0,amod  cc  conj  nmod,staff,Helpful,staff,0
+ID-1164,0,0,amod  cc  conj  nmod,staff,of,service,0
+ID-1164,staff,0,nsubj  xcomp,make,0,0,0
+ID-1164,0,0,case  cc  conj,service,0,0,0
+ID-1164,0,service,mark  advmod  dobj,enjoying,0,0,0
+ID-1164,Everything,0,nsubj  cop  nmod,available,0,0,0
+ID-1164,Everything,0,nsubj  cop  nmod,available,at,hotel,0
+ID-1178,you,room,mark  nsubj  dobj  nmod,book,0,0,0
+ID-1178,you,room,mark  nsubj  dobj  nmod,book,at,Hotel,0
+ID-1178,you,room,mark  nsubj  dobj  nmod,book,0,0,0
+ID-1178,you,room,mark  nsubj  dobj  nmod,book,at,Hotel,0
+ID-1178,0,0,det  compound,staff,0,0,0
+ID-1178,staff,all,nsubj  dobj  nmod,greets,0,0,0
+ID-1178,staff,all,nsubj  dobj  nmod,greets,with,smiles,0
+ID-1178,0,0,det  compound  nmod,staff,0,0,0
+ID-1178,0,0,det  compound  nmod,staff,upon,request,0
+ID-1178,staff,tour,nsubj  aux  iobj  dobj  ccomp,give,0,0,0
+ID-1178,0,0,det  nmod,tour,0,0,0
+ID-1178,0,0,det  nmod,tour,of,room,0
+ID-1178,you,0,mark  nsubj  cop  case  nmod:poss  compound,room,0,0,0
+ID-1178,rooms,0,advcl  nsubj  cop,emmaculate,0,0,0
+ID-1178,0,0,case  nmod:poss  compound  det,room,0,0,0
+ID-1178,0,0,case  nmod:poss  compound  det,room,s,hotel,0
+ID-1178,0,room,dobj,enjoy,0,0,0
+ID-1096,staff,0,nsubj  cop  cc  conj  cc  conj,great,0,0,0
+ID-1096,staff,0,nsubj  cop  cc  conj  cc  conj,great,friendly,great,0
+ID-1092,favorite,0,nmod  nsubj  advcl  aux  cop  det  compound  compound,Tokyo,0,0,0
+ID-1092,favorite,0,nmod  nsubj  advcl  aux  cop  det  compound  compound,Tokyo,of,hotels,0
+ID-1092,favorite,0,nmod  nsubj  advcl  aux  cop  det  compound  compound,Tokyo,0,0,0
+ID-1092,favorite,0,nmod  nsubj  advcl  aux  cop  det  compound  compound,Tokyo,of,hotels,0
+ID-1092,hotel,0,nsubjpass  auxpass  nmod  cc  conj,located,0,0,0
+ID-1092,hotel,0,nsubjpass  auxpass  nmod  cc  conj,located,in,district,0
+ID-1092,hotel,0,nsubjpass  auxpass  nmod  cc  conj,located,of,district,0
+ID-1092,service,0,nsubj  cop  cc  conj,excellent,0,0,0
+ID-1092,service,0,nsubj  cop  cc  conj,excellent,helpful,excellent,0
+ID-1092,0,0,det  compound  compound  case,Tokyo,0,0,0
+ID-1092,staff,0,nsubj  cop  cc  conj,helpful,0,0,0
+ID-1092,staff,0,nsubj  cop  cc  conj,helpful,friendly,helpful,0
+ID-1092,0,0,mark  cop  nmod,common,0,0,0
+ID-1092,0,0,mark  cop  nmod,common,in,hotels,0
+ID-1092,rooms,0,nsubj  advcl  dep  cop  cc  conj,clean,0,0,0
+ID-1092,rooms,0,nsubj  advcl  dep  cop  cc  conj,clean,small,clean,0
+ID-1092,rooms,0,nsubj  advcl  dep  cop  cc  conj,clean,common,clean,0
+ID-1092,rooms,0,nsubj  advcl  dep  cop  cc  conj,clean,0,0,0
+ID-1092,rooms,0,nsubj  advcl  dep  cop  cc  conj,clean,small,clean,0
+ID-1092,rooms,0,nsubj  advcl  dep  cop  cc  conj,clean,common,clean,0
+ID-1092,concerts,elegance,expl  cop  advmod  nsubj  nmod  iobj  dobj,giving,0,0,0
+ID-1092,concerts,elegance,expl  cop  advmod  nsubj  nmod  iobj  dobj,giving,in,evenings,0
+ID-1092,0,0,det  amod  compound,buffet,0,0,0
+ID-1092,0,0,det  amod  compound,buffet,excellent,buffet,0
+ID-1092,food,0,nsubj  cop,excellent,0,0,0
+ID-1092,0,0,case  det  compound,price,0,0,0
+ID-1092,0,0,det  compound  compound,Tokyo,0,0,0
+ID-1092,0,room,dobj,enjoying,0,0,0
+ID-1092,areas,0,nmod  nsubj  cop  nmod  advcl,quiet,0,0,0
+ID-1092,areas,0,nmod  nsubj  cop  nmod  advcl,quiet,unlike,hotels,0
+ID-1092,areas,0,nmod  nsubj  cop  nmod  advcl,quiet,on,weekends,0
+ID-1092,areas,0,nmod  nsubj  cop  nmod  advcl,quiet,daunting,quiet,0
+ID-1092,0,0,det  compound  compound  case,Tokyo,0,0,0
+ID-1092,0,0,aux  advmod  xcomp  advcl,remain,0,0,0
+ID-1092,0,0,det  compound  compound,Tokyo,0,0,0
+ID-1062,hotel,0,nsubjpass  auxpass  advmod  cc  conj,maintained,0,0,0
+ID-1062,hotel,0,nsubjpass  auxpass  advmod  cc  conj,maintained,nice,maintained,0
+ID-1062,I,room,nsubj  dobj  cc  conj,found,0,0,0
+ID-1062,I,room,nsubj  dobj  cc  conj,found,confortable,found,0
+ID-1062,bed,0,nsubj  cop,confortable,0,0,0
+ID-1062,0,0,mark  cop  advmod,clean,0,0,0
+ID-1062,I,food,nsubj  dobj  nmod,enjoyed,0,0,0
+ID-1062,I,food,nsubj  dobj  nmod,enjoyed,in,restaurant,0
+ID-1062,staff,0,nsubj  cop  advmod  cc  conj,pleasant,0,0,0
+ID-1062,staff,0,nsubj  cop  advmod  cc  conj,pleasant,helpful,pleasant,0
+ID-1264,we,hotel,nsubj  advmod  dobj,found,0,0,0
+ID-1264,We,breakfast,nsubj  dobj,had,0,0,0
+ID-1264,0,0,det  nmod,setting,0,0,0
+ID-1264,0,0,det  nmod,setting,of,hotel,0
+ID-1136,I,0,nsubj  cop  advmod  nmod,impressed,0,0,0
+ID-1136,I,0,nsubj  cop  advmod  nmod,impressed,with,hotel,0
+ID-1136,it,0,case  det  nsubj  cop  advmod  det  amod  nmod,hotel,0,0,0
+ID-1136,it,0,case  det  nsubj  cop  advmod  det  amod  nmod,hotel,roomiest,hotel,0
+ID-1136,it,0,case  det  nsubj  cop  advmod  det  amod  nmod,hotel,in,Concord,0
+ID-1136,it,0,case  det  nsubj  cop  advmod  det  amod  nmod,hotel,0,0,0
+ID-1136,it,0,case  det  nsubj  cop  advmod  det  amod  nmod,hotel,roomiest,hotel,0
+ID-1136,it,0,case  det  nsubj  cop  advmod  det  amod  nmod,hotel,in,Concord,0
+ID-1136,0,service,dobj,had,0,0,0
+ID-1136,0,0,amod  amod  conj  conj  cc  conj,toiletry,0,0,0
+ID-1136,0,0,amod  amod  conj  conj  cc  conj,toiletry,nifty,toiletry,0
+ID-1136,0,0,amod  amod  conj  conj  cc  conj,toiletry,free,toiletry,0
+ID-1136,0,0,amod  amod  conj  conj  cc  conj,toiletry,more,toiletry,0
+ID-1136,It,0,nsubj  cop  nmod,close,0,0,0
+ID-1136,It,0,nsubj  cop  nmod,close,to,school,0
+ID-1126,that,0,nsubjpass  auxpass  nmod  advcl,enhanced,0,0,0
+ID-1126,that,0,nsubjpass  auxpass  nmod  advcl,enhanced,by,benefits,0
+ID-1126,0,0,nmod:poss  nmod,stay,0,0,0
+ID-1126,0,0,nmod:poss  nmod,stay,at,Hotel,0
+ID-1126,highlight,0,nsubj  cop  det  amod  acl,breakfast,0,0,0
+ID-1126,highlight,0,nsubj  cop  det  amod  acl,breakfast,hot,breakfast,0
+ID-1126,0,0,case  det  amod  compound  nmod,components,0,0,0
+ID-1126,0,0,case  det  amod  compound  nmod,components,normal,components,0
+ID-1126,0,0,case  det  amod  compound  nmod,components,such,fruit,0
+ID-1126,0,0,det  amod  compound  compound,space,0,0,0
+ID-1126,0,0,det  amod  compound  compound,space,separate,space,0
+ID-1126,0,0,det  amod  nmod  acl:relcl  cc  conj,room,0,0,0
+ID-1126,0,0,det  amod  nmod  acl:relcl  cc  conj,room,clean,room,0
+ID-1126,0,0,det  amod  nmod  acl:relcl  cc  conj,room,with,beds,0
+ID-1126,0,0,det  amod  compound  compound,space,0,0,0
+ID-1126,0,0,det  amod  compound  compound,space,separate,space,0
+ID-1126,0,0,det  amod  nmod  acl:relcl  cc  conj,room,0,0,0
+ID-1126,0,0,det  amod  nmod  acl:relcl  cc  conj,room,clean,room,0
+ID-1126,0,0,det  amod  nmod  acl:relcl  cc  conj,room,with,beds,0
+ID-1126,hotel,0,advcl  nsubj  cop  advmod  case  det  compound,airport,0,0,0
+ID-1204,hotel,0,nsubj  cop  advcl,fantastic,0,0,0
+ID-1204,hotel,0,nsubj  cop  advcl,fantastic,amazing,fantastic,0
+ID-1204,location,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1204,hotel,value,nmod  nsubj  dobj  nmod,offered,0,0,0
+ID-1204,hotel,value,nmod  nsubj  dobj  nmod,offered,Due,extending,0
+ID-1204,hotel,value,nmod  nsubj  dobj  nmod,offered,at,cost,0
+ID-1204,room,0,nsubjpass  auxpass  nmod,split,0,0,0
+ID-1204,room,0,nsubjpass  auxpass  nmod,split,into,rooms,0
+ID-1204,beds,0,nsubj  cop  advmod,comfortable,0,0,0
+ID-1204,0,0,case  nmod:poss  compound,number,0,0,0
+ID-1204,0,0,cc  advcl  nmod,stop,0,0,0
+ID-1204,0,0,cc  advcl  nmod,stop,by,breakfast,0
+ID-1216,I,0,nsubj  cop  det  amod  compound,guest,0,0,0
+ID-1216,I,0,nsubj  cop  det  amod  compound,guest,picky,guest,0
+ID-1216,sheets,0,nsubj  cop  neg,old,0,0,0
+ID-1216,bathroom,0,nsubj  cop,spotless,0,0,0
+ID-1216,room,0,nsubj  cop  ccomp  cc  conj,clean,0,0,0
+ID-1216,room,0,nsubj  cop  ccomp  cc  conj,clean,old,clean,0
+ID-1216,room,0,nsubj  cop  ccomp  cc  conj,clean,spotless,clean,0
+ID-1216,staff,0,nsubj  advmod  dep,was,0,0,0
+ID-1216,staff,0,nsubj  advmod  dep,was,helpful,was,0
+ID-1216,it,0,nsubj  nmod  nmod,went,0,0,0
+ID-1216,it,0,nsubj  nmod  nmod,went,beyond,spread,0
+ID-1216,it,0,nsubj  nmod  nmod,went,at,hotel,0
+ID-1216,breakfast,lots,nsubj  dobj  parataxis,had,0,0,0
+ID-1088,0,0,det  amod  dep  dep,40,0,0,0
+ID-1088,0,0,det  amod  dep  dep,40,small,40,0
+ID-1088,0,0,det  amod  dep  dep,40,0,0,0
+ID-1088,0,0,det  amod  dep  dep,40,small,40,0
+ID-1088,staff,0,nsubj  cop  amod  acl:relcl,beach,0,0,0
+ID-1088,staff,0,nsubj  cop  amod  acl:relcl,beach,exceptional,beach,0
+ID-1088,staff,0,nsubj  cop  amod  acl:relcl,beach,best,beach,0
+ID-1088,0,0,advmod  cc  conj,clean,0,0,0
+ID-1114,bellhop,bags,nsubj  aux  dobj  nmod  advcl,take,0,0,0
+ID-1114,bellhop,bags,nsubj  aux  dobj  nmod  advcl,take,to,room,0
+ID-1114,you,0,nsubj  nmod,expect,0,0,0
+ID-1114,you,0,nsubj  nmod,expect,from,hotel,0
+ID-1114,rooms,0,nsubj  cop  nmod  xcomp,large,0,0,0
+ID-1114,rooms,0,nsubj  cop  nmod  xcomp,large,with,televisions,0
+ID-1114,bathroom,0,nsubj  cop  advmod  advmod  nmod  nmod,impressive,0,0,0
+ID-1114,bathroom,0,nsubj  cop  advmod  advmod  nmod  nmod,impressive,with,floors,0
+ID-1114,bathroom,0,nsubj  cop  advmod  advmod  nmod  nmod,impressive,in,shower,0
+ID-1114,0,0,aux  auxpass  nmod  advcl,called,0,0,0
+ID-1114,0,0,aux  auxpass  nmod  advcl,called,from,room,0
+ID-1114,I,hotel,nsubj  dobj  cc  conj,loved,0,0,0
+ID-1122,0,0,det  nmod,interior,0,0,0
+ID-1122,0,0,det  nmod,interior,of,hotel,0
+ID-1122,room,0,nsubjpass  auxpass  advmod  nmod,decorated,0,0,0
+ID-1122,room,0,nsubjpass  auxpass  advmod  nmod,decorated,with,bathroom,0
+ID-1122,bedding,0,nsubj  cop,clean,0,0,0
+ID-1122,bedding,0,nsubj  cop,clean,0,0,0
+ID-1122,0,0,nmod,available,0,0,0
+ID-1122,0,0,nmod,available,in,room,0
+ID-1254,room,0,nsubj  cop  advmod  cc  conj,spacious,0,0,0
+ID-1196,this,0,advcl  nsubj  cop  nmod,one,0,0,0
+ID-1196,this,0,advcl  nsubj  cop  nmod,one,of,hotels,0
+ID-1196,hotel,0,advmod  nsubj  cop  dep  nmod  advcl,no,0,0,0
+ID-1196,hotel,0,advmod  nsubj  cop  dep  nmod  advcl,no,near,campus,0
+ID-1196,0,0,advmod  case  det  compound,description,0,0,0
+ID-1196,0,0,advmod  case  det  compound,description,out,fact,0
+ID-1196,0,0,nmod:poss  amod,offices,0,0,0
+ID-1196,0,0,nmod:poss  amod,offices,corporate,offices,0
+ID-1196,0,0,nmod,ambiance,0,0,0
+ID-1196,0,0,nmod,ambiance,of,room,0
+ID-1196,it,0,nsubj  xcomp  nmod,smell,0,0,0
+ID-1196,it,0,nsubj  xcomp  nmod,smell,bad,smell,0
+ID-1196,it,0,nsubj  xcomp  nmod,smell,in,room,0
+ID-1196,0,rooms,mark  dobj  advmod,switch,0,0,0
+ID-1196,I,0,aux  nsubj  advmod  compound:prt  nmod,go,0,0,0
+ID-1196,I,0,aux  nsubj  advmod  compound:prt  nmod,go,to,hotel,0
+ID-1118,I,times,nsubj  advmod  nmod  dobj  advcl,stay,0,0,0
+ID-1118,I,times,nsubj  advmod  nmod  dobj  advcl,stay,at,Hotel,0
+ID-1118,0,0,det  compound  acl:relcl,deal,0,0,0
+ID-1118,0,0,cc  conj,bed,0,0,0
+ID-1118,staff,0,nsubj  cop  advmod  cc  conj  dep  conj,pleasant,0,0,0
+ID-1118,staff,0,nsubj  cop  advmod  cc  conj  dep  conj,pleasant,clean,pleasant,0
+ID-1118,staff,0,nsubj  cop  advmod  cc  conj  dep  conj,pleasant,0,0,0
+ID-1118,staff,0,nsubj  cop  advmod  cc  conj  dep  conj,pleasant,clean,pleasant,0
+ID-1118,0,0,cop  advmod  conj  cc  conj,clean,0,0,0
+ID-1118,0,0,cop  advmod  conj  cc  conj,clean,peaceful,clean,0
+ID-1118,0,0,cop  advmod  conj  cc  conj,clean,quiet,clean,0
+ID-1118,hotel,0,nsubjpass  auxpass  xcomp  cc  conj,supposed,0,0,0
+ID-1118,0,0,nmod,staying,0,0,0
+ID-1118,0,0,nmod,staying,at,hotel,0
+ID-1118,hotel,0,nsubj  cop  nmod  ccomp,close,0,0,0
+ID-1118,hotel,0,nsubj  cop  nmod  ccomp,close,several,close,0
+ID-1118,hotel,0,nsubj  cop  nmod  ccomp,close,to,several,0
+ID-1118,hotel,0,nsubj  cop  nmod  ccomp,close,0,0,0
+ID-1118,hotel,0,nsubj  cop  nmod  ccomp,close,several,close,0
+ID-1118,hotel,0,nsubj  cop  nmod  ccomp,close,to,several,0
+ID-1118,0,0,case  det  compound,Galvez,0,0,0
+ID-1152,Hotel,blocks,nsubjpass  auxpass  advmod  dobj  nmod,located,0,0,0
+ID-1152,Hotel,blocks,nsubjpass  auxpass  advmod  dobj  nmod,located,from,district,0
+ID-1152,0,0,amod,blocks,0,0,0
+ID-1152,0,0,amod,blocks,close,blocks,0
+ID-1152,service,0,nsubj  cop  amod,notch,0,0,0
+ID-1152,service,0,nsubj  cop  amod,notch,top,notch,0
+ID-1152,hotel,0,nsubj  cop  advmod  ccomp  cc  conj,furnished,0,0,0
+ID-1152,rooms,0,nsubj  cop  advmod  cc  conj,modern,0,0,0
+ID-1152,staff,0,nsubj  cop  advmod  cc  conj  advmod,knowledgeable,0,0,0
+ID-1152,hotel,0,nsubj  aux  advmod  nmod:poss  dep  nmod  nmod,museum,0,0,0
+ID-1152,hotel,0,nsubj  aux  advmod  nmod:poss  dep  nmod  nmod,museum,s,stone,0
+ID-1152,hotel,0,nsubj  aux  advmod  nmod:poss  dep  nmod  nmod,museum,of,art,0
+ID-1152,hotel,0,nsubj  aux  advmod  nmod:poss  dep  nmod  nmod,museum,out,there,0
+ID-1242,It,design,nsubj  dobj  nmod,combined,0,0,0
+ID-1242,It,design,nsubj  dobj  nmod,combined,with,staff,0
+ID-1242,0,0,det  amod  nmod,slant,0,0,0
+ID-1242,0,0,det  amod  nmod,slant,unique,slant,0
+ID-1242,0,0,det  amod  nmod,slant,of,hotel,0
+ID-1110,I,0,nsubj  nmod,had,0,0,0
+ID-1110,I,0,nsubj  nmod,had,at,hotel/resort,0
+ID-1110,hotel,0,nsubjpass  auxpass  cc  conj,clean,0,0,0
+ID-1110,food,0,nsubj  cop  advmod  cc  conj,delicious,0,0,0
+ID-1110,food,0,nsubj  cop  advmod  cc  conj,delicious,fresh,delicious,0
+ID-1110,0,0,det  nmod,variety,0,0,0
+ID-1110,0,0,det  nmod,variety,of,food,0
+ID-1110,sand,0,nsubj  cop,clean,0,0,0
+ID-1056,This,0,nsubj  cop  advmod  nmod:poss  amod  amod,hotel,0,0,0
+ID-1056,This,0,nsubj  cop  advmod  nmod:poss  amod  amod,hotel,s,Seattle,0
+ID-1056,This,0,nsubj  cop  advmod  nmod:poss  amod  amod,hotel,most,hotel,0
+ID-1056,This,0,nsubj  cop  advmod  nmod:poss  amod  amod,hotel,elegant,hotel,0
+ID-1056,Room,0,nsubj  cop  case  nmod,itself,0,0,0
+ID-1056,Room,0,nsubj  cop  case  nmod,itself,worth,visit,0
+ID-1056,rooms,0,nsubj  aux  nmod,dripping,0,0,0
+ID-1056,rooms,0,nsubj  aux  nmod,dripping,with,atmosphere,0
+ID-1056,0,0,nmod,Everything,0,0,0
+ID-1056,0,0,nmod,Everything,from,bathrooms,0
+ID-1056,hotel,0,cc  advmod  nmod  nsubj  cop  nummod  nmod,blocks,0,0,0
+ID-1056,hotel,0,cc  advmod  nmod  nsubj  cop  nummod  nmod,blocks,of,all,0
+ID-1056,hotel,0,cc  advmod  nmod  nsubj  cop  nummod  nmod,blocks,few,blocks,0
+ID-1056,hotel,0,cc  advmod  nmod  nsubj  cop  nummod  nmod,blocks,from,downtown,0
+ID-1130,0,0,case  compound  appos,Street,0,0,0
+ID-1130,0,hotel,mark  dobj  cc  conj,reaching,0,0,0
+ID-1130,staff,0,nsubj  cop,friendly,0,0,0
+ID-1130,0,0,case  nmod:poss  compound  compound,accommodations,0,0,0
+ID-1130,round,0,nmod  nsubj,was,0,0,0
+ID-1130,round,0,nmod  nsubj,was,Outside,room,0
+ID-1130,0,0,det  nmod  advmod,feature,0,0,0
+ID-1130,0,0,det  nmod  advmod,feature,of,hotel,0
+ID-1130,0,0,case  det  nmod,middle,0,0,0
+ID-1130,0,0,case  det  nmod,middle,of,bed,0
+ID-1130,bathroom,0,nsubj  cop  advmod  advmod,nice,0,0,0
+ID-1130,bedroom,0,nsubj  cop  cc  conj,beautiful,0,0,0
+ID-1130,bedroom,0,nsubj  cop  cc  conj,beautiful,nice,beautiful,0
+ID-1130,staff,0,nsubj  cop  dep  cc  conj  xcomp,friendly,0,0,0
+ID-1130,staff,0,nsubj  cop  dep  cc  conj  xcomp,friendly,quick,friendly,0
+ID-1130,It,0,nsubj  cop  det  amod  cc  conj,hotel,0,0,0
+ID-1130,It,0,nsubj  cop  det  amod  cc  conj,hotel,fabulous,hotel,0
+ID-1100,0,0,case  nmod:poss  amod  compound,experiences,0,0,0
+ID-1100,0,0,case  nmod:poss  amod  compound,experiences,best,experiences,0
+ID-1100,hotel,0,nsubjpass  auxpass  nmod  cc  conj,located,0,0,0
+ID-1100,hotel,0,nsubjpass  auxpass  nmod  cc  conj,located,on,beach,0
+ID-1100,hotel,0,nsubjpass  auxpass  nmod  cc  conj,located,full,located,0
+ID-1190,hotel,0,nsubjpass  auxpass  nmod,located,0,0,0
+ID-1190,hotel,0,nsubjpass  auxpass  nmod,located,near,lines,0
+ID-1190,staff,0,mark  nmod  nsubj  cop  advmod,friendly,0,0,0
+ID-1190,staff,0,mark  nmod  nsubj  cop  advmod,friendly,for,hotel,0
+ID-1190,staff,0,mark  nmod  nsubj  cop  advmod,friendly,0,0,0
+ID-1190,staff,0,mark  nmod  nsubj  cop  advmod,friendly,for,hotel,0
+ID-1190,room,0,nsubj  cop  nmod,great,0,0,0
+ID-1190,room,0,nsubj  cop  nmod,great,for,50something,0
+ID-1190,room,0,nsubj  cop  det  amod,deal,0,0,0
+ID-1190,room,0,nsubj  cop  det  amod,deal,great,deal,0
+ID-1190,bathroom,0,nsubj  cop,clean,0,0,0
+ID-1190,bathroom,0,nsubj  cop,clean,0,0,0
+ID-1190,we,time,mark  cc  advmod  nsubj  aux  neg  dobj  nmod,spend,0,0,0
+ID-1190,we,time,mark  cc  advmod  nsubj  aux  neg  dobj  nmod,spend,in,hotel,0
+ID-1190,staff,0,nsubj  cop,great,0,0,0
+ID-1190,bed,0,nsubj  cop  cc  conj,large,0,0,0
+ID-1190,bed,0,nsubj  cop  cc  conj,large,comfortable,large,0
+ID-1190,it,0,nsubj  cop,clean,0,0,0
+ID-1192,hotel,acres,nsubj  dobj  nmod,boasts,0,0,0
+ID-1192,hotel,acres,nsubj  dobj  nmod,boasts,on,premise,0
+ID-1192,staff,0,nsubj  cop  advmod  cc  conj,friendly,0,0,0
+ID-1192,staff,0,nsubj  cop  advmod  cc  conj,friendly,comfortable,friendly,0
+ID-1192,rooms,0,nsubj  cop  advmod  dep,comfortable,0,0,0
+ID-1192,0,0,amod  cc  conj  nmod,conference,0,0,0
+ID-1192,0,0,amod  cc  conj  nmod,conference,many,conference,0
+ID-1192,0,0,amod  cc  conj  nmod,conference,in,wing,0
+ID-1192,0,0,case  det  amod  amod,wing,0,0,0
+ID-1192,0,0,case  det  amod  amod,wing,separate,wing,0
+ID-1192,0,0,case  det  amod  amod,wing,available,wing,0
+ID-1256,room,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1256,room,0,nsubj  cop  cc  conj,clean,comfortable,clean,0
+ID-1256,beds,0,nsubj  cop  advmod,comfortable,0,0,0
+ID-1256,room,0,nsubj  cop  cc  conj,clean,0,0,0
+ID-1256,room,0,nsubj  cop  cc  conj,clean,comfortable,clean,0
+ID-1144,rooms.They,0,nsubj  cop  advmod  ccomp,friendly,0,0,0
+ID-1144,0,0,compound  amod,rooms.They,0,0,0
+ID-1144,0,0,compound  amod,rooms.They,clean,rooms.They,0
+ID-1144,you,rooms,advmod  nsubj  aux  dobj  nmod,see,0,0,0
+ID-1144,you,rooms,advmod  nsubj  aux  dobj  nmod,see,from,pool,0
+ID-1076,room,0,nsubj  cop  advmod,pleasant,0,0,0
+ID-1076,I,0,nsubj  nmod,stayed,0,0,0
+ID-1076,I,0,nsubj  nmod,stayed,in,room,0
+ID-1076,It,0,nsubj  cop  advmod,clean,0,0,0
+ID-1076,bathroom,0,nsubj  cop,spacious,0,0,0
+ID-1076,room,0,nsubjpass  auxpass  nmod  cc  conj,decorated,0,0,0
+ID-1076,room,0,nsubjpass  auxpass  nmod  cc  conj,decorated,in,paint,0
+ID-1076,0,0,case  det  amod  nmod,floor,0,0,0
+ID-1076,0,0,case  det  amod  nmod,floor,first,floor,0
+ID-1076,0,0,case  det  amod  nmod,floor,of,hotel,0
+ID-1076,staff,0,nsubj  cop  advmod  advcl,helpful,0,0,0
+ID-1076,0,room,mark  dobj  nmod,finding,0,0,0
+ID-1076,0,room,mark  dobj  nmod,finding,on,floor,0
+ID-1076,0,room,mark  dobj  nmod,access,0,0,0
+ID-1076,0,room,mark  dobj  nmod,access,without,hassel,0
+ID-1076,I,room,nsubj  aux  advmod  dobj  nmod,booked,0,0,0
+ID-0975,stays,0,mark  mark  nsubj  cop  cc  conj  ccomp,excellent,0,0,1
+ID-0975,stays,0,mark  mark  nsubj  cop  cc  conj  ccomp,excellent,clean,excellent,1
+ID-0975,room,0,nsubj  cop  advmod  cc  conj,dirty,0,0,1
+ID-0975,room,0,nsubj  cop  advmod  cc  conj,dirty,0,0,1
+ID-0975,room,0,nsubj  xcomp,smelled,0,0,1
+ID-0975,room,0,nsubj  xcomp,smelled,horrible,smelled,1
+ID-0975,0,0,det  compound  amod,windows,0,0,1
+ID-0975,0,0,det  compound  amod,windows,open,windows,1
+ID-0819,we,0,nsubj  nmod  ccomp,got,0,0,1
+ID-0819,we,0,nsubj  nmod  ccomp,got,to,hotel,1
+ID-0819,we,0,nsubj  nmod  ccomp,got,2am,got,1
+ID-0819,0,0,acl:relcl  dep,We,0,0,1
+ID-0819,0,0,mark  neg  aux  auxpass  nmod,cleaned,0,0,1
+ID-0819,0,0,mark  neg  aux  auxpass  nmod,cleaned,at,all,1
+ID-0819,0,0,case  det  nmod,front,0,0,1
+ID-0819,0,0,case  det  nmod,front,of,bed,1
+ID-0819,0,0,case  det  amod,office,0,0,1
+ID-0819,0,0,case  det  amod,office,corporate,office,1
+ID-0819,0,0,det  compound  acl,staff,0,0,1
+ID-0819,0,0,case  det  cc  conj  case  det  nmod  acl,door,0,0,1
+ID-0819,0,0,case  det  cc  conj  case  det  nmod  acl,door,at,9am,1
+ID-0819,0,room,mark  dobj,clean,0,0,1
+ID-0819,0,0,xcomp,wanting,0,0,1
+ID-0819,they,0,nsubj  cop  advmod  advcl,late,0,0,1
+ID-1027,rooms,0,nsubj  cop  conj  cc  conj  cc  advmod,small,0,0,1
+ID-1027,everywhere,0,advmod  cop  neg  dep  nmod  nsubj,pleasant,0,0,1
+ID-1027,everywhere,0,advmod  cop  neg  dep  nmod  nsubj,pleasant,Outside,pleasant,1
+ID-1027,everywhere,0,advmod  cop  neg  dep  nmod  nsubj,pleasant,dirty,pleasant,1
+ID-1027,everywhere,0,advmod  cop  neg  dep  nmod  nsubj,pleasant,with,garbage,1
+ID-1027,microwaves,0,nsubj  cop  advcl,dirty,0,0,1
+ID-1027,we,sheets,ccomp  nsubj  compound:prt  dobj  cc  conj,pulled,0,0,1
+ID-1027,0,0,compound,bugs,0,0,1
+ID-0843,Hotel,0,nsubj  cop  compound  dep  dep  acl:relcl,mold,0,0,1
+ID-0843,bedding,0,nsubj  xcomp,looked,0,0,1
+ID-0843,bedding,0,nsubj  xcomp,looked,dirty,looked,1
+ID-0843,bedding,0,nsubj  xcomp,looked,0,0,1
+ID-0843,bedding,0,nsubj  xcomp,looked,dirty,looked,1
+ID-0843,I,0,advmod  mark  nsubj  nmod,walked,0,0,1
+ID-0843,I,0,advmod  mark  nsubj  nmod,walked,into,room,1
+ID-0843,bedbugs,problem,mark  nsubj  aux  dobj,had,0,0,1
+ID-0843,0,0,aux  aux  cop  cc  conj,cleaner,0,0,1
+ID-0843,0,0,aux  aux  cop  cc  conj,cleaner,safer,cleaner,1
+ID-0825,We,0,nsubj  nmod  nmod,stayed,0,0,1
+ID-0825,We,0,nsubj  nmod  nmod,stayed,at,resort/hotel,1
+ID-0825,We,0,nsubj  nmod  nmod,stayed,for,days,1
+ID-0825,0,0,nmod:poss  cc  conj,reservation,0,0,1
+ID-0825,0,0,nmod,headed,0,0,1
+ID-0825,0,0,nmod,headed,to,room,1
+ID-0825,0,0,neg  amod,rooms,0,0,1
+ID-0825,0,0,neg  amod,rooms,other,rooms,1
+ID-0825,room,0,nsubj  advmod,dirty,0,0,1
+ID-0825,we,0,nsubj  xcomp,found,0,0,1
+ID-0825,we,0,nsubj  xcomp,found,dirty,found,1
+ID-0825,We,0,nsubj  nmod  advcl,returned,0,0,1
+ID-0825,We,0,nsubj  nmod  advcl,returned,to,hotel,1
+ID-0825,we,0,nsubj  nmod,paid,0,0,1
+ID-0825,we,0,nsubj  nmod,paid,to,room,1
+ID-0825,we,0,nsubj  nmod,paid,for,room,1
+ID-0825,we,0,advmod  nsubj  nmod  ccomp,got,0,0,1
+ID-0825,we,0,advmod  nsubj  nmod  ccomp,got,to,room,1
+ID-0825,0,0,mark  aux  aux  neg  advmod  auxpass  advmod,cleaned,0,0,1
+ID-0825,sheets,0,nsubj  cop  case  det  cc  conj,floor,0,0,1
+ID-0825,0,0,det  compound,sheets,0,0,1
+ID-0825,keeping,room,nsubj  aux  neg  dobj  advmod  advcl,cleaned,0,0,1
+ID-0825,keeping,room,nsubj  aux  neg  dobj  advmod  advcl,cleaned,8pm,cleaned,1
+ID-0825,keeping,room,nsubj  aux  neg  dobj  advmod  advcl,cleaned,0,0,1
+ID-0825,keeping,room,nsubj  aux  neg  dobj  advmod  advcl,cleaned,8pm,cleaned,1
+ID-0825,0,hotels,mark  dobj,call,0,0,1
+ID-0825,we,hotel,nsubj  advmod  dobj,found,0,0,1
+ID-0825,that,room,nsubj  dobj  advmod,had,0,0,1
+ID-0825,This,0,nsubjpass  auxpass  dep  advmod  nmod  cc  conj,had,0,0,1
+ID-0825,This,0,nsubjpass  auxpass  dep  advmod  nmod  cc  conj,had,at,hotel,1
+ID-0825,I,hotel,nsubj  aux  neg  dobj  nmod  cc  conj,recommend,0,0,1
+ID-0825,I,hotel,nsubj  aux  neg  dobj  nmod  cc  conj,recommend,to,anyone,1
+ID-0825,I,hotel,nsubj  aux  neg  dobj  nmod  cc  conj,recommend,unhappy,recommend,1
+ID-0973,0,0,compound,prices,0,0,1
+ID-0973,hotel,0,mark  nsubjpass  auxpass  nmod,situated,0,0,1
+ID-0973,hotel,0,mark  nsubjpass  auxpass  nmod,situated,in,district,1
+ID-0973,hotel,amenities,nsubj  dobj,had,0,0,1
+ID-0973,rooms,0,nsubjpass  auxpass  cc  conj  ccomp  cc  conj,small,0,0,1
+ID-0855,staff,0,nsubj  cop,rude,0,0,1
+ID-0855,it,0,nsubj  cop  advcl,dirty,0,0,1
+ID-0855,it,0,nsubj  cop  advcl,dirty,dated,dirty,1
+ID-0855,0,0,det  nmod,carpeting,0,0,1
+ID-0855,0,0,det  nmod,carpeting,in,room,1
+ID-0855,shower,0,nmod  nsubj  cop  cc  conj,moldy,0,0,1
+ID-0855,shower,0,nmod  nsubj  cop  cc  conj,moldy,In,bathroom,1
+ID-0855,TV,0,nsubj  aux  neg  nmod,work,0,0,1
+ID-0855,TV,0,nsubj  aux  neg  nmod,work,at,room,1
+ID-0855,0,0,advmod  nummod  nmod,%,0,0,1
+ID-0855,0,0,advmod  nummod  nmod,%,of,rate,1
+ID-0913,rooms,0,nsubj  cop  advmod  cc  conj,old,0,0,1
+ID-0913,rooms,0,nsubj  cop  advmod  cc  conj,old,dated,old,1
+ID-0913,0,0,case  det  nmod,corners,0,0,1
+ID-0913,0,0,case  det  nmod,corners,of,room,1
+ID-0913,0,0,acl:relcl,areas,0,0,1
+ID-0913,room,smell,nsubj  dobj  nmod  advmod,had,0,0,1
+ID-0913,room,smell,nsubj  dobj  nmod  advmod,had,to,it,1
+ID-0913,we,0,advmod  nsubj  nmod  cc  conj,checked,0,0,1
+ID-0913,we,0,advmod  nsubj  nmod  cc  conj,checked,into,room,1
+ID-0913,we,0,advmod  nsubj  nmod  cc  conj,checked,gross,checked,1
+ID-1021,hotel,0,nsubjpass  auxpass  nmod,located,0,0,1
+ID-1021,hotel,0,nsubjpass  auxpass  nmod,located,at,circle,1
+ID-1021,0,0,det  compound,restaurant,0,0,1
+ID-1021,0,0,case  det  nmod,quality,0,0,1
+ID-1021,0,0,case  det  nmod,quality,of,sheets,1
+ID-0919,we,room,nsubj  dobj  cc  conj,found,0,0,1
+ID-0919,bedsheets,0,nsubj  advmod,were,0,0,1
+ID-0919,bedsheets,0,nsubj  advmod,were,0,0,1
+ID-0919,room,0,nsubj  advmod  nmod,smelled,0,0,1
+ID-0919,room,0,nsubj  advmod  nmod,smelled,like,smoke,1
+ID-0859,hotel,0,mark  nsubj  cop  advmod  cc  conj,empty,0,0,1
+ID-0859,staff,0,expl  neg  nsubj,was,0,0,1
+ID-0859,0,0,mark  compound:prt  nmod,stopping,0,0,1
+ID-0859,0,0,mark  compound:prt  nmod,stopping,at,hotel,1
+ID-0859,room,0,nmod  nsubjpass  auxpass  advmod  neg  nmod,cleaned,0,0,1
+ID-0859,room,0,nmod  nsubjpass  auxpass  advmod  neg  nmod,cleaned,On,Day,1
+ID-0859,room,0,nmod  nsubjpass  auxpass  advmod  neg  nmod,cleaned,by,p.m.,1
+ID-0859,room,0,nmod  nsubjpass  auxpass  advmod  neg  nmod,cleaned,0,0,1
+ID-0859,room,0,nmod  nsubjpass  auxpass  advmod  neg  nmod,cleaned,On,Day,1
+ID-0859,room,0,nmod  nsubjpass  auxpass  advmod  neg  nmod,cleaned,by,p.m.,1
+ID-0859,0,hotel,advmod  dobj  advcl,left,0,0,1
+ID-0859,room,0,advcl  nsubjpass  auxpass  advmod  neg  cc  conj,cleaned,0,0,1
+ID-0859,room,0,advcl  nsubjpass  auxpass  advmod  neg  cc  conj,cleaned,0,0,1
+ID-0859,0,room,mark  dobj,clean,0,0,1
+ID-0859,someone,0,advmod  nsubj  advmod  xcomp,came,0,0,1
+ID-0917,Super,0,nsubj  cop  det  acl:relcl,hotel,0,0,1
+ID-0917,service,0,nsubj  cop,slow,0,0,1
+ID-0917,hotels,0,mark  nsubj,go,0,0,1
+ID-0917,room,sheets,nsubj  dobj  cc  conj,has,0,0,1
+ID-0917,0,room,mark  dobj  advcl,clean,0,0,1
+ID-0917,0,0,compound  acl,sheets,0,0,1
+ID-0917,person,0,nsubj  aux  xcomp,bothered,0,0,1
+ID-0917,service,0,nsubj  cop  dep  xcomp,slow,0,0,1
+ID-0917,0,0,nmod,brought,0,0,1
+ID-0917,0,0,nmod,brought,to,room,1
+ID-0917,0,bed,mark  dobj,get,0,0,1
+ID-1015,I,0,nsubj  nmod  nmod,overpaid,0,0,1
+ID-1015,I,0,nsubj  nmod  nmod,overpaid,for,room,1
+ID-1015,I,0,nsubj  nmod  nmod,overpaid,at,hotel,1
+ID-1015,I,0,nsubj  nmod  nmod,overpaid,0,0,1
+ID-1015,I,0,nsubj  nmod  nmod,overpaid,for,room,1
+ID-1015,I,0,nsubj  nmod  nmod,overpaid,at,hotel,1
+ID-1015,which,0,advcl  nsubj  aux  advmod  cop  det  nmod,handful,0,0,1
+ID-1015,which,0,advcl  nsubj  aux  advmod  cop  det  nmod,handful,for,price,1
+ID-1015,0,0,det  nmod,quality,0,0,1
+ID-1015,0,0,det  nmod,quality,of,room,1
+ID-1015,0,0,det  nmod,quality,of,room,1
+ID-1015,0,0,case  det  nmod,state,0,0,1
+ID-1015,0,0,case  det  nmod,state,of,room,1
+ID-1015,sheets,0,nsubj  cop  cc  conj  dep  parataxis,thin,0,0,1
+ID-1015,sheets,0,nsubj  cop  cc  conj  dep  parataxis,thin,small,thin,1
+ID-1015,0,0,advmod  nummod  nmod,$,0,0,1
+ID-1015,0,0,advmod  nummod  nmod,$,for,room,1
+ID-1015,0,0,nmod  advmod,put,0,0,1
+ID-1015,0,0,nmod  advmod,put,into,food,1
+ID-1015,0,0,det  amod  compound,items,0,0,1
+ID-1015,0,0,det  amod  compound,items,continental,items,1
+ID-0941,I,0,nsubj  nmod  advcl,stayed,0,0,1
+ID-0941,I,0,nsubj  nmod  advcl,stayed,at,hotel,1
+ID-0941,staff,most,nsubj  dobj  cc  conj,ignored,0,0,1
+ID-0941,staff,most,nsubj  dobj  cc  conj,ignored,most,ignored,1
+ID-0941,I,room,advmod  nsubj  dobj  advcl,entered,0,0,1
+ID-0941,service,0,nsubj  cop  advcl,mediocre,0,0,1
+ID-0941,service,0,nsubj  cop  advcl,mediocre,best,mediocre,1
+ID-0941,0,0,compound,service,0,0,1
+ID-0941,bed,0,nsubj  cop  advmod  advmod,comfortable,0,0,1
+ID-0941,hotel,0,nsubj  cop  case  advmod  det  acl:relcl,worst,0,0,1
+ID-0879,hotel,0,nsubj  nmod,smelled,0,0,1
+ID-0879,hotel,0,nsubj  nmod,smelled,like,smoke,1
+ID-0879,0,0,neg  det  amod  amod  acl:relcl,breakfast,0,0,1
+ID-0879,0,0,neg  det  amod  amod  acl:relcl,breakfast,full,breakfast,1
+ID-0879,0,0,neg  det  amod  amod  acl:relcl,breakfast,hot,breakfast,1
+ID-0879,hotel,0,advmod  nsubj  cop  neg  det  dep,worst,0,0,1
+ID-0879,hotel,0,advmod  nsubj  cop  neg  det  dep,worst,disappointing,worst,1
+ID-0915,room,0,nsubj  cop  cc  conj,unclean,0,0,1
+ID-0915,0,0,det  amod,unmade,0,0,1
+ID-0915,0,0,det  amod,unmade,beds,unmade,1
+ID-0915,room,0,nsubj  cop  cc  conj,unclean,0,0,1
+ID-0915,0,0,cc  conj,Rude,0,0,1
+ID-0959,0,hotel,dobj,recommending,0,0,1
+ID-0959,bathroom,0,mark  nsubj  aux  neg  cc  conj  cc  conj,work,0,0,1
+ID-0959,0,0,case  det  nmod,part,0,0,1
+ID-0959,0,0,case  det  nmod,part,of,hotel,1
+ID-0959,We,try,nsubj  iobj  dobj,gave,0,0,1
+ID-0959,creamers,0,nmod  nsubj  cop,spoiled,0,0,1
+ID-0959,creamers,0,nmod  nsubj  cop,spoiled,At,breakfast,1
+ID-0883,room,0,nsubj  cop  cc  conj,dirty,0,0,1
+ID-0883,room,0,nsubj  cop  cc  conj,dirty,antiquated,dirty,1
+ID-0883,room,0,nsubj  cop  cc  conj,dirty,0,0,1
+ID-0883,room,0,nsubj  cop  cc  conj,dirty,antiquated,dirty,1
+ID-0883,staff,0,nsubj  cop  neg  cc  conj,friendly,0,0,1
+ID-0869,This,0,nsubj  cop  det  amod  acl:relcl,hotel,0,0,1
+ID-0869,This,0,nsubj  cop  det  amod  acl:relcl,hotel,cheapest,hotel,1
+ID-0869,0,0,compound,bugs,0,0,1
+ID-0869,staff,0,nsubj  cop  advmod  advcl,helpful,0,0,1
+ID-0869,breakfast,0,expl  nsubj,was,0,0,1
+ID-0869,0,0,nmod,rid,0,0,1
+ID-0869,0,0,nmod,rid,of,bed,1
+ID-0829,room,0,nsubj  nmod,smelled,0,0,1
+ID-0829,room,0,nsubj  nmod,smelled,like,cigarettes,1
+ID-0829,0,0,case  det  nmod,cover,0,0,1
+ID-0829,0,0,case  det  nmod,cover,of,room,1
+ID-0829,0,0,case  det  cc  conj,room,0,0,1
+ID-0829,something,0,nsubj  aux  nmod  cc  conj,biting,0,0,1
+ID-0829,something,0,nsubj  aux  nmod  cc  conj,biting,in,bed,1
+ID-0829,I,insects,nsubj  dobj  nmod,saw,0,0,1
+ID-0829,I,insects,nsubj  dobj  nmod,saw,under,sheets,1
+ID-0829,I,insects,nsubj  dobj  nmod,saw,underneath,sheets,1
+ID-0829,hotel,0,nsubj  cop  amod  acl:relcl,hotels,0,0,1
+ID-0829,hotel,0,nsubj  cop  amod  acl:relcl,hotels,full,hotels,1
+ID-0939,0,0,case  amod  compound,amenities,0,0,1
+ID-0939,0,0,case  amod  compound,amenities,modern,amenities,1
+ID-0939,0,0,amod  amod  nmod,reviews,0,0,1
+ID-0939,0,0,amod  amod  nmod,reviews,many,reviews,1
+ID-0939,0,0,amod  amod  nmod,reviews,negative,reviews,1
+ID-0939,0,0,amod  amod  nmod,reviews,of,Hotel,1
+ID-0939,I,0,mark  nsubj  nmod,got,0,0,1
+ID-0939,I,0,mark  nsubj  nmod,got,to,room,1
+ID-0939,0,0,det  compound,lobby,0,0,1
+ID-0939,we,0,advmod  nsubj  nmod,got,0,0,1
+ID-0939,we,0,advmod  nsubj  nmod,got,into,room,1
+ID-0939,bathroom,0,nsubj  cop  advmod,dated,0,0,1
+ID-0939,bedspread,0,nsubj  advmod,seemed,0,0,1
+ID-0939,air,0,nsubj  cop  nmod,stuffy,0,0,1
+ID-0939,air,0,nsubj  cop  nmod,stuffy,in,room,1
+ID-0939,0,room,dobj  nmod  nmod,found,0,0,1
+ID-0939,0,room,dobj  nmod  nmod,found,at,LaQuinta,1
+ID-0939,0,room,dobj  nmod  nmod,found,with,room,1
+ID-0939,0,0,det  case  det  amod  cc  conj,room,0,0,1
+ID-0939,0,0,det  case  det  amod  cc  conj,room,better,room,1
+ID-0839,We,times,nsubj  nmod  dobj  nmod,travel,0,0,1
+ID-0839,We,times,nsubj  nmod  dobj  nmod,travel,as,family,1
+ID-0839,We,times,nsubj  nmod  dobj  nmod,travel,in,hotels,1
+ID-0839,0,0,det  case  mark  cop  det  amod  nmod,hotel,0,0,1
+ID-0839,0,0,det  case  mark  cop  det  amod  nmod,hotel,upscale,hotel,1
+ID-0839,0,0,det  case  mark  cop  det  amod  nmod,hotel,on,beach,1
+ID-0839,hotel,0,nsubj  cop  ccomp,not,0,0,1
+ID-0839,hotel,0,nsubj  cop  case  cc  conj,construction,0,0,1
+ID-0839,maintenance,0,mark  nsubj  aux  advmod  nmod  advmod  nmod  cc  conj,working,0,0,1
+ID-0839,maintenance,0,mark  nsubj  aux  advmod  nmod  advmod  nmod  cc  conj,working,on,room,1
+ID-0839,maintenance,0,mark  nsubj  aux  advmod  nmod  advmod  nmod  cc  conj,working,next,working,1
+ID-0839,maintenance,0,mark  nsubj  aux  advmod  nmod  advmod  nmod  cc  conj,working,after,9pm,1
+ID-0839,0,0,case  cc  conj,best,0,0,1
+ID-0839,0,0,case  det  compound,rooms,0,0,1
+ID-0839,0,0,nmod,available,0,0,1
+ID-0839,0,0,nmod,available,for,rooms,1
+ID-0839,staff,request,nsubj  dobj  nmod  advcl,ignored,0,0,1
+ID-0839,staff,request,nsubj  dobj  nmod  advcl,ignored,for,towels,1
+ID-0839,0,0,case  amod,towels,0,0,1
+ID-0839,0,0,case  amod,towels,clean,towels,1
+ID-0839,0,0,case  det  amod  nmod,level,0,0,1
+ID-0839,0,0,case  det  amod  nmod,level,poor,level,1
+ID-0839,0,0,case  det  amod  nmod,level,of,service,1
+ID-0839,I,hotel,nsubj  aux  neg  dobj  nmod,recommend,0,0,1
+ID-0839,I,hotel,nsubj  aux  neg  dobj  nmod,recommend,for,customer,1
+ID-0983,0,0,case  nmod,check,0,0,1
+ID-0983,0,0,case  nmod,check,in,hotel,1
+ID-0983,0,0,case  nmod,check,at,hotel,1
+ID-0983,room,0,nsubj  cop  cc  conj,dirty,0,0,1
+ID-0983,room,0,nsubj  cop  cc  conj,dirty,filthy,dirty,1
+ID-0983,room,0,nsubj  cop  cc  conj,dirty,0,0,1
+ID-0983,room,0,nsubj  cop  cc  conj,dirty,filthy,dirty,1
+ID-0931,0,0,case  det  compound,!!,0,0,1
+ID-0931,room,conditioner,nsubj  dobj  cc  conj,had,0,0,1
+ID-0931,sheets,stains,nsubj  dobj  cc  conj,had,0,0,1
+ID-0931,room,0,nsubj  xcomp,smelled,0,0,1
+ID-0931,room,0,nsubj  xcomp,smelled,awful,smelled,1
+ID-0931,0,price,dobj  nmod,paying,0,0,1
+ID-0931,0,price,dobj  nmod,paying,for,hotel,1
+ID-0977,hotel,0,nsubj  cop  nmod  cc  conj,next,0,0,1
+ID-0977,hotel,0,nsubj  cop  nmod  cc  conj,next,to,tracks,1
+ID-0977,rooms,0,nsubj  cop  cc  conj,dirty,0,0,1
+ID-0977,rooms,0,nsubj  cop  cc  conj,dirty,0,0,1
+ID-0977,room,0,nsubj  cop  advmod  neg  advcl  nsubj  aux  cop,ready,0,0,1
+ID-0977,0,0,mark  nmod,get,0,0,1
+ID-0977,0,0,mark  nmod,get,in,room,1
+ID-0977,maid,bed,nsubj  dobj,make,0,0,1
+ID-0977,We,0,nsubj  cop  advmod  xcomp,desperate,0,0,1
+ID-0823,0,0,nmod,checking,0,0,1
+ID-0823,0,0,nmod,checking,in,hotel,1
+ID-0823,0,0,nmod,checking,to,hotel,1
+ID-0823,Staff,0,nsubj  cop  advmod  cc  conj,rude,0,0,1
+ID-0823,Staff,0,nsubj  cop  advmod  cc  conj,rude,unfriendly,rude,1
+ID-0823,Breakfast,0,nsubj  cop  cc  conj,cold,0,0,1
+ID-0823,Breakfast,0,nsubj  cop  cc  conj,cold,unenjoyable,cold,1
+ID-0823,Rooms,0,nsubj  cop  advmod,mediocre,0,0,1
+ID-1017,0,0,nmod,up,0,0,1
+ID-1017,0,0,nmod,up,to,rooms,1
+ID-1017,room,smell,nsubj  dobj  nmod,had,0,0,1
+ID-1017,room,smell,nsubj  dobj  nmod,had,to,it,1
+ID-0945,0,0,dep,mice,0,0,1
+ID-0945,rooms,0,nsubj  cop  advmod,drafty,0,0,1
+ID-0945,rooms,0,nsubj  nmod,come,0,0,1
+ID-0945,rooms,0,nsubj  nmod,come,with,television,1
+ID-0945,rooms,0,nsubj  cop  advmod  ccomp,painted,0,0,1
+ID-0945,rooms,0,nsubj  cop  advmod  ccomp,painted,little,painted,1
+ID-0897,0,Hotel,mark  dobj,like,0,0,1
+ID-0897,bed,0,dep  nsubj  cop  advmod,hard,0,0,1
+ID-0897,0,0,det  nmod,futon,0,0,1
+ID-0897,0,0,det  nmod,futon,in,room,1
+ID-0897,0,0,amod  nmod,fan,0,0,1
+ID-0897,0,0,amod  nmod,fan,irked.The,fan,1
+ID-0897,0,0,amod  nmod,fan,in,bathroom,1
+ID-0897,0,0,case  cop  neg  case  det  ccomp,lights,0,0,1
+ID-0897,breakfast,0,nsubjpass  auxpass  compound:prt  nmod  cc  conj,picked,0,0,1
+ID-0897,breakfast,0,nsubjpass  auxpass  compound:prt  nmod  cc  conj,picked,by,time,1
+ID-1025,0,0,case  amod,occasions,0,0,1
+ID-1025,0,0,case  amod,occasions,separate,occasions,1
+ID-1025,0,0,case  det  amod  compound  nmod,experiences,0,0,1
+ID-1025,0,0,case  det  amod  compound  nmod,experiences,worst,experiences,1
+ID-1025,0,0,case  det  amod  compound  nmod,experiences,of,life,1
+ID-1025,0,0,advmod  advcl,smells,0,0,1
+ID-1025,0,0,det  acl  case  det  nmod,smell,0,0,1
+ID-1025,0,0,det  acl  case  det  nmod,smell,of,elevator,1
+ID-1025,0,0,case  det  nmod,way,0,0,1
+ID-1025,0,0,case  det  nmod,way,of,food,1
+ID-1025,0,money,dobj  nmod,saving,0,0,1
+ID-1025,0,money,dobj  nmod,saving,for,hotel,1
+ID-0971,hotel,0,advcl  nsubj  cop  xcomp,sure,0,0,1
+ID-0971,Restaurant,0,mark  nsubj  advmod  nmod,found,0,0,1
+ID-0971,Restaurant,0,mark  nsubj  advmod  nmod,found,beside,hotel,1
+ID-0971,room,television,nsubj  dobj  cc  conj,hosts,0,0,1
+ID-0971,room,television,nsubj  dobj  cc  conj,hosts,comfortable,hosts,1
+ID-0971,bedding,0,nsubj  cop,comfortable,0,0,1
+ID-0971,others,0,mark  nsubj  aux  nmod,had,0,0,1
+ID-0971,others,0,mark  nsubj  aux  nmod,had,within,rooms,1
+ID-0971,others,0,mark  nsubj  aux  nmod,had,in,rooms,1
+ID-0971,0,0,det  cc  conj  nmod,calm,0,0,1
+ID-0971,0,0,det  cc  conj  nmod,calm,quiet,calm,1
+ID-0971,0,0,det  cc  conj  nmod,calm,of,rooms,1
+ID-0971,0,0,case  amod  amod,rooms,0,0,1
+ID-0971,0,0,case  amod  amod,rooms,other,rooms,1
+ID-0971,0,0,case  amod  amod,rooms,well-decorated,rooms,1
+ID-0971,0,Hotel,mark  dobj,visiting,0,0,1
+ID-0971,one,0,nmod  nsubj  aux  neg  xcomp,veer,0,0,1
+ID-0971,one,0,nmod  nsubj  aux  neg  xcomp,veer,With,staff,1
+ID-0971,one,0,nmod  nsubj  aux  neg  xcomp,veer,wrong,veer,1
+ID-0813,Hotel,0,nsubj  cop  compound,!!!,0,0,1
+ID-0813,I,room,nsubj  dobj  nmod  cc  conj,ordered,0,0,1
+ID-0813,I,room,nsubj  dobj  nmod  cc  conj,ordered,with,view,1
+ID-0813,me,0,nsubj  nmod,started,0,0,1
+ID-0813,me,0,nsubj  nmod,started,with,food,1
+ID-0813,I,room,nsubj  dobj,guess,0,0,1
+ID-1001,hotel,0,nsubj  cop  advmod  nmod  cc  conj,nice,0,0,1
+ID-1001,hotel,0,nsubj  cop  advmod  nmod  cc  conj,nice,on,outside,1
+ID-1001,room,0,nsubj  cop  case  det  compound  acl:relcl,paper,0,0,1
+ID-0993,rooms,0,nsubj  cop  compound  acl:relcl,units,0,0,1
+ID-0993,rooms,0,nsubj  cop  compound  acl:relcl,units,separated,units,1
+ID-0993,0,0,nmod,one,0,0,1
+ID-0993,0,0,nmod,one,with,bed,1
+ID-0993,that,0,nsubj  aux  cop  nmod  nmod,separated,0,0,1
+ID-0993,that,0,nsubj  aux  cop  nmod  nmod,separated,into,areas,1
+ID-0993,that,0,nsubj  aux  cop  nmod  nmod,separated,by,wall,1
+ID-0993,Rooms,0,nsubj  cop  cc  conj,clean,0,0,1
+ID-0993,Rooms,0,nsubj  cop  cc  conj,clean,minimal,clean,1
+ID-0993,decor,0,nsubj  cop  cc  advmod  nmod,minimal,0,0,1
+ID-0993,decor,0,nsubj  cop  cc  advmod  nmod,minimal,in,need,1
+ID-0993,Rooms,0,nsubj  cop  cc  conj,clean,0,0,1
+ID-0993,Rooms,0,nsubj  cop  cc  conj,clean,minimal,clean,1
+ID-0953,I,0,advmod  nsubj  nmod,checked,0,0,1
+ID-0953,I,0,advmod  nsubj  nmod,checked,into,hotel,1
+ID-0953,I,help,nsubjpass  auxpass  dobj  nmod,provided,0,0,1
+ID-0953,I,help,nsubjpass  auxpass  dobj  nmod,provided,from,staff,1
+ID-0953,which,room,nsubj  dobj,created,0,0,1
+ID-0847,I,things,mark  nsubj  aux  advmod  dobj  nmod,heard,0,0,1
+ID-0847,I,things,mark  nsubj  aux  advmod  dobj  nmod,heard,about,hotel,1
+ID-0847,hotel,things,nsubj  dobj  advmod,runs,0,0,1
+ID-0847,reviews,0,advmod  nsubj  cop  advmod  advmod  dep  ccomp,exaggerated,0,0,1
+ID-0847,0,0,det  compound,staff,0,0,1
+ID-0847,staff,0,nsubj  cop  conj  cc  conj,rude,0,0,1
+ID-0847,I,service,nmod  nsubj  dobj  cc  conj,expected,0,0,1
+ID-0847,I,service,nmod  nsubj  dobj  cc  conj,expected,Given,price,1
+ID-0847,0,0,case  det  nmod,price,0,0,1
+ID-0847,0,0,case  det  nmod,price,of,hotel,1
+ID-0847,I,0,mark  nsubj  aux  advmod  neg  nmod  advmod,return,0,0,1
+ID-0847,I,0,mark  nsubj  aux  advmod  neg  nmod  advmod,return,at,hotel,1
+ID-0847,I,0,mark  nsubj  aux  advmod  neg  nmod  advmod,return,to,hotel,1
+ID-0827,0,0,nmod,me,0,0,1
+ID-0827,0,0,nmod,me,of,hotel,1
+ID-0827,hotel,0,nsubjpass  auxpass  nmod  cc  conj,surrounded,0,0,1
+ID-0827,hotel,0,nsubjpass  auxpass  nmod  cc  conj,surrounded,by,shops,1
+ID-0827,hotel,0,nsubjpass  auxpass  nmod  cc  conj,surrounded,close,surrounded,1
+ID-0827,center,0,advcl  nsubj  cop  advcl,close,0,0,1
+ID-0827,center,0,advcl  nsubj  cop  advcl,close,enough,close,1
+ID-0827,which,0,nsubj  cop  advcl,close,0,0,1
+ID-0889,hotel,0,nsubj  cop  nmod,one,0,0,1
+ID-0889,hotel,0,nsubj  cop  nmod,one,worst,one,1
+ID-0889,hotel,0,nsubj  cop  nmod,one,of,worst,1
+ID-0889,sheets,0,advcl  nsubjpass  auxpass  cc  conj,stained,0,0,1
+ID-0889,0,unclean,dobj,smelled,0,0,1
+ID-0889,0,unclean,dobj,smelled,unclean,smelled,1
+ID-0889,bathroom,0,nsubjpass  aux  neg  auxpass,touched,0,0,1
+ID-0889,0,room,dobj  compound:prt,turn,0,0,1
+ID-0889,I,hotel,nsubj  aux  neg  dobj  nmod,recommend,0,0,1
+ID-0889,I,hotel,nsubj  aux  neg  dobj  nmod,recommend,to,anyone,1
+ID-0875,hotel,0,advcl  nsubj  advmod  cop  neg  case  det,money,0,0,1
+ID-0875,hotel,0,advcl  nsubj  advmod  cop  neg  case  det,money,cheap,money,1
+ID-0875,room,0,nsubj  cop  case  amod  nmod,need,0,0,1
+ID-0875,room,0,nsubj  cop  case  amod  nmod,need,dire,need,1
+ID-0875,room,0,nsubj  cop  case  amod  nmod,need,of,repair,1
+ID-0875,0,0,case  det  nmod,day,0,0,1
+ID-0875,0,0,case  det  nmod,day,outside,room,1
+ID-0875,I,hotel,nsubj  aux  neg  dobj,recommend,0,0,1
+ID-0807,I,0,nsubj  xcomp  nmod,became,0,0,1
+ID-0807,I,0,nsubj  xcomp  nmod,became,unsatisfied,became,1
+ID-0807,I,0,nsubj  xcomp  nmod,became,with,hotel,1
+ID-0807,staff,0,nsubj  cop  neg  advmod  nmod,unfriendly,0,0,1
+ID-0807,staff,0,nsubj  cop  neg  advmod  nmod,unfriendly,at,times,1
+ID-0807,hotel,bugs,nsubj  dobj,had,0,0,1
+ID-0807,0,0,compound  cc  conj  acl:relcl,bugs,0,0,1
+ID-0807,you,staff,advmod  nsubj  aux  dobj  dep,see,0,0,1
+ID-0807,food,hour,nsubj  aux  compound:prt  dobj,take,0,0,1
+ID-0807,I,rude,nsubj  dobj  nmod,heard,0,0,1
+ID-0807,I,rude,nsubj  dobj  nmod,heard,rude,heard,1
+ID-0807,I,rude,nsubj  dobj  nmod,heard,from,staff,1
+ID-0807,carpets,0,nsubj  cop  cc  conj,dirty,0,0,1
+ID-0955,I,hotel,nsubj  dobj  advcl  cc  conj,picked,0,0,1
+ID-0955,buses,0,nsubj  nmod,come,0,0,1
+ID-0955,buses,0,nsubj  nmod,come,near,hotel,1
+ID-0955,0,0,det  compound  case  det,room,0,0,1
+ID-0955,0,0,det  nmod,objects,0,0,1
+ID-0955,0,0,det  nmod,objects,in,room,1
+ID-0955,room,0,nsubj  cop  neg  advmod  cc  conj,clean,0,0,1
+ID-0955,0,0,compound,supplies,0,0,1
+ID-0955,bedding,feel,nsubj  aux  neg  dobj,have,0,0,1
+ID-0955,breakfast,0,nsubj  cop  det  acl:relcl,worst,0,0,1
+ID-0955,0,more,dobj  nmod,paying,0,0,1
+ID-0955,0,more,dobj  nmod,paying,more,paying,1
+ID-0955,0,more,dobj  nmod,paying,for,hotel,1
+ID-1029,0,0,nmod,staying,0,0,1
+ID-1029,0,0,nmod,staying,at,hotel,1
+ID-0933,0,0,case  det  nmod,inconsistency,0,0,1
+ID-0933,0,0,case  det  nmod,inconsistency,of,service,1
+ID-0933,0,0,det  nmod,prices,0,0,1
+ID-0933,0,0,det  nmod,prices,at,hotel,1
+ID-0933,0,0,det  nmod,atmosphere,0,0,1
+ID-0933,0,0,det  nmod,atmosphere,of,hotel,1
+ID-0933,0,0,mark  cop  case  nmod:poss,room,0,0,1
+ID-0933,they,prices,nmod  nsubj  advmod  dobj  nmod,charge,0,0,1
+ID-0933,they,prices,nmod  nsubj  advmod  dobj  nmod,charge,For,hotel,1
+ID-0933,they,prices,nmod  nsubj  advmod  dobj  nmod,charge,at,restaurant,1
+ID-0933,0,0,amod  nmod,prices,0,0,1
+ID-0933,0,0,amod  nmod,prices,high,prices,1
+ID-0933,0,0,amod  nmod,prices,for,food,1
+ID-0933,0,hotel,aux  neg  dobj,book,0,0,1
+ID-0907,0,dogs,mark  dobj  nmod,allowing,0,0,1
+ID-0907,0,dogs,mark  dobj  nmod,allowing,in,rooms,1
+ID-0907,he,dogs,mark  nsubj  aux  neg  dobj  nmod,allow,0,0,1
+ID-0907,he,dogs,mark  nsubj  aux  neg  dobj  nmod,allow,in,rooms,1
+ID-0907,he,room,nsubj  aux  iobj  dobj,give,0,0,1
+ID-0907,us,0,nsubj  advmod  cop  nmod  nmod,dirty,0,0,1
+ID-0907,us,0,nsubj  advmod  cop  nmod  nmod,dirty,with,stains,1
+ID-0907,us,0,nsubj  advmod  cop  nmod  nmod,dirty,on,carpet,1
+ID-0907,we,room,mark  nsubj  dobj  advcl,took,0,0,1
+ID-0907,we,room,mark  nsubj  dobj  advcl,took,sure,took,1
+ID-0921,Inn,0,nsubj  cop  det  amod  cc  conj,hotel,0,0,1
+ID-0921,Inn,0,nsubj  cop  det  amod  cc  conj,hotel,nice,hotel,1
+ID-0921,rooms,0,nsubj  cop  advmod  cc  conj,nice,0,0,1
+ID-0921,staff,0,advmod  nsubj  cop  neg  advmod,friendly,0,0,1
+ID-0921,0,0,det  amod  appos,staff,0,0,1
+ID-0921,0,0,det  amod  appos,staff,unfriendly,staff,1
+ID-0921,0,0,case  det  nmod  cc  conj,lack,0,0,1
+ID-0921,0,0,case  det  nmod  cc  conj,lack,of,water,1
+ID-0989,0,0,mark  cop  nmod,one,0,0,1
+ID-0989,0,0,mark  cop  nmod,one,of,hotels,1
+ID-0989,spaces,0,nsubj  cop  cc  conj,miniscule,0,0,1
+ID-0989,room,0,mark  nsubj  cop  advmod  cc  conj,small,0,0,1
+ID-0989,0,0,case  amod  cc  conj,furnitures,0,0,1
+ID-0989,0,0,case  amod  cc  conj,furnitures,dated,furnitures,1
+ID-0911,0,0,mark  advmod  cop  det,hotel,0,0,1
+ID-0911,I,0,mark  nsubj  cop  case  det  nmod  advcl,casino,0,0,1
+ID-0911,I,0,mark  nsubj  cop  case  det  nmod  advcl,casino,with,beds,1
+ID-0911,I,0,mark  nsubj  cop  case  det  nmod  advcl,casino,0,0,1
+ID-0911,I,0,mark  nsubj  cop  case  det  nmod  advcl,casino,with,beds,1
+ID-0885,room,0,nsubj  xcomp  nmod,looked,0,0,1
+ID-0885,room,0,nsubj  xcomp  nmod,looked,great,looked,1
+ID-0885,room,0,nsubj  xcomp  nmod,looked,with,bed,1
+ID-0885,room,0,nsubj  xcomp  nmod,looked,0,0,1
+ID-0885,room,0,nsubj  xcomp  nmod,looked,great,looked,1
+ID-0885,room,0,nsubj  xcomp  nmod,looked,with,bed,1
+ID-0885,bed,0,nsubj  cop  advmod  case,show,0,0,1
+ID-0885,tub,0,nsubj  cop  advmod  xcomp,cute,0,0,1
+ID-0885,I,bed,advmod  nsubj  dobj,expect,0,0,1
+ID-0885,I,bed,advmod  nsubj  dobj,expect,Overall,expect,1
+ID-0873,we,reservation,advmod  nsubj  dobj  nmod,reserved,0,0,1
+ID-0873,we,reservation,advmod  nsubj  dobj  nmod,reserved,at,Hotel,1
+ID-0873,hotel,0,nsubj  neg  ccomp,is,0,0,1
+ID-0873,0,0,nmod,dirty,0,0,1
+ID-0873,0,0,nmod,dirty,in,rooms,1
+ID-0873,It,0,nsubj  cop  compound:prt  cc  conj,run,0,0,1
+ID-0873,It,0,nsubj  cop  compound:prt  cc  conj,run,dirty,run,1
+ID-0873,0,0,compound:prt  nmod  nmod,going,0,0,1
+ID-0873,0,0,compound:prt  nmod  nmod,going,in,rooms,1
+ID-0873,0,0,compound:prt  nmod  nmod,going,around,ours,1
+ID-0991,0,0,det  compound  compound,Marais,0,0,1
+ID-0991,that,0,nsubj  cop  det  nummod  amod  nmod,aspect,0,0,1
+ID-0991,that,0,nsubj  cop  det  nummod  amod  nmod,aspect,positive,aspect,1
+ID-0991,that,0,nsubj  cop  det  nummod  amod  nmod,aspect,of,hotel,1
+ID-0991,property,0,nsubj  cop  case  nmod  nmod,need,0,0,1
+ID-0991,property,0,nsubj  cop  case  nmod  nmod,need,of,renovation,1
+ID-0991,property,0,nsubj  cop  case  nmod  nmod,need,to,rooms,1
+ID-0991,rooms,0,nsubj  cop  case  nmod,average,0,0,1
+ID-0991,rooms,0,nsubj  cop  case  nmod,average,for,hotels,1
+ID-0991,rooms,0,nsubj  cop  case  nmod,average,0,0,1
+ID-0991,rooms,0,nsubj  cop  case  nmod,average,for,hotels,1
+ID-0991,0,0,nmod:poss,brochure,0,0,1
+ID-0991,0,0,nmod:poss,brochure,s,hotel,1
+ID-0805,hotel,0,nsubj  cop  advmod  ccomp,dirtyand,0,0,1
+ID-0805,its,0,nsubj  neg  nmod,clean,0,0,1
+ID-0805,its,0,nsubj  neg  nmod,clean,at,all,1
+ID-0805,hotel,0,nsubj  cop  advmod  ccomp,dirtyand,0,0,1
+ID-0895,motel,0,mark  nsubj  cop  dep  xcomp  cc  conj,cheap,0,0,1
+ID-0905,hotel,0,nsubj  cop  nmod:poss  amod  amod  acl:relcl,facility,0,0,1
+ID-0905,hotel,0,nsubj  cop  nmod:poss  amod  amod  acl:relcl,facility,typical,facility,1
+ID-0905,hotel,0,nsubj  cop  nmod:poss  amod  amod  acl:relcl,facility,corporate,facility,1
+ID-0905,hotel,0,nsubj  cop  nmod:poss  amod  amod  acl:relcl,facility,ok,facility,1
+ID-0905,hotel,0,nsubj  cop  nmod:poss  amod  amod  acl:relcl,facility,0,0,1
+ID-0905,hotel,0,nsubj  cop  nmod:poss  amod  amod  acl:relcl,facility,typical,facility,1
+ID-0905,hotel,0,nsubj  cop  nmod:poss  amod  amod  acl:relcl,facility,corporate,facility,1
+ID-0905,hotel,0,nsubj  cop  nmod:poss  amod  amod  acl:relcl,facility,ok,facility,1
+ID-0905,0,0,advmod  cc  conj,located,0,0,1
+ID-0905,0,0,advmod  cc  conj,located,clean,located,1
+ID-0821,hotel,0,nsubj  cop  advmod,disgusting,0,0,1
+ID-0821,0,0,nmod,staying,0,0,1
+ID-0821,0,0,nmod,staying,in,hotel,1
+ID-0821,0,0,det  compound,staff,0,0,1
+ID-0821,0,0,neg  cc  conj,work,0,0,1
+ID-0821,bed,0,mark  nsubj  advmod,stunk,0,0,1
+ID-0821,they,sheets,advmod  nsubj  aux  neg  dobj,change,0,0,1
+ID-0821,0,0,nmod,laid,0,0,1
+ID-0821,0,0,nmod,laid,in,bed,1
+ID-0821,sheets,0,advmod  nsubj  aux  aux  cop  case  det  advcl,bed,0,0,1
+ID-0821,sheets,0,advmod  nsubj  aux  aux  cop  case  det  advcl,bed,0,0,1
+ID-0997,rooms,0,advmod  nsubj  cop  neg,nice,0,0,1
+ID-0997,price,0,nsubj  cop  nmod,high,0,0,1
+ID-0997,price,0,nsubj  cop  nmod,high,for,rooms,1
+ID-1003,it,0,mark  nsubj  cop  det  compound  compound,hotel,0,0,1
+ID-1003,rooms,0,nsubj  nmod  advcl,smelled,0,0,1
+ID-1003,rooms,0,nsubj  nmod  advcl,smelled,like,smoke,1
+ID-1003,0,sheets,mark  dobj,washing,0,0,1
+ID-1003,beds,0,nsubj  xcomp,seemed,0,0,1
+ID-1003,beds,0,nsubj  xcomp,seemed,dirty,seemed,1
+ID-1003,beds,0,nsubj  xcomp,seemed,0,0,1
+ID-1003,beds,0,nsubj  xcomp,seemed,dirty,seemed,1
+ID-1003,it,0,nmod  nsubj  nmod,seems,0,0,1
+ID-1003,it,0,nmod  nsubj  nmod,seems,At,night,1
+ID-1003,it,0,nmod  nsubj  nmod,seems,like,hotel,1
+ID-0833,secretary,0,nsubj  xcomp,booked,0,0,1
+ID-0833,This,0,nsubj  cop  det  amod  amod  compound  acl:relcl,stay,0,0,1
+ID-0833,This,0,nsubj  cop  det  amod  amod  compound  acl:relcl,stay,absolute,stay,1
+ID-0833,This,0,nsubj  cop  det  amod  amod  compound  acl:relcl,stay,worst,stay,1
+ID-0833,0,0,case  det  nmod,stay,0,0,1
+ID-0833,0,0,case  det  nmod,stay,at,hotel,1
+ID-0833,0,0,mark  nmod,checking,0,0,1
+ID-0833,0,0,mark  nmod,checking,into,room,1
+ID-0833,0,hotel,dobj  nmod,recommend,0,0,1
+ID-0833,0,hotel,dobj  nmod,recommend,to,anyone,1
+ID-0927,hotel,0,advmod  nsubj  cop  neg  det,greatest,0,0,1
+ID-0927,room,0,nsubj  cop  case  amod  cc  conj,quality,0,0,1
+ID-0927,room,0,nsubj  cop  case  amod  cc  conj,quality,decent,quality,1
+ID-0927,room,0,nsubj  cop  case  amod  cc  conj,quality,clean,quality,1
+ID-0927,0,0,cop  neg  advmod  advmod  advcl,clean,0,0,1
+ID-0927,service,0,nsubj  cop  advcl,terrible,0,0,1
+ID-0927,it,bathroom,mark  mark  nsubj  aux  neg  advmod  dobj  nmod:tmod  advcl,stock,0,0,1
+ID-0927,0,0,cc  conj,soap,0,0,1
+ID-0927,0,0,cc  conj,soap,clean,soap,1
+ID-0927,breakfast,0,nsubj  cop  cc  conj,good,0,0,1
+ID-0927,breakfast,0,nsubj  cop  cc  conj,good,basic,good,1
+ID-0927,service,0,nsubj  cop  dep,nice,0,0,1
+ID-0867,0,0,det  amod  amod  compound,room,0,0,1
+ID-0867,0,0,det  amod  amod  compound,room,smoke,room,1
+ID-0867,0,0,det  amod  amod  compound,room,free,room,1
+ID-0867,room,0,nsubj  nmod,smelled,0,0,1
+ID-0867,room,0,nsubj  nmod,smelled,like,field,1
+ID-0963,0,0,mark  nmod  advmod  cc  conj,stay,0,0,1
+ID-0963,0,0,mark  nmod  advmod  cc  conj,stay,in,hotel,1
+ID-0963,hotel,0,nsubj  cop  advmod,rustic,0,0,1
+ID-0963,rooms,0,nsubj,available,0,0,1
+ID-0963,beds,0,advcl  dep  nsubj  xcomp  cc  conj  cc  conj,seemed,0,0,1
+ID-0963,beds,0,advcl  dep  nsubj  xcomp  cc  conj  cc  conj,seemed,rustic,seemed,1
+ID-0963,beds,0,advcl  dep  nsubj  xcomp  cc  conj  cc  conj,seemed,old,seemed,1
+ID-0963,beds,0,advcl  dep  nsubj  xcomp  cc  conj  cc  conj,seemed,uncomfortable,seemed,1
+ID-0963,beds,0,advcl  dep  nsubj  xcomp  cc  conj  cc  conj,seemed,0,0,1
+ID-0963,beds,0,advcl  dep  nsubj  xcomp  cc  conj  cc  conj,seemed,rustic,seemed,1
+ID-0963,beds,0,advcl  dep  nsubj  xcomp  cc  conj  cc  conj,seemed,old,seemed,1
+ID-0963,beds,0,advcl  dep  nsubj  xcomp  cc  conj  cc  conj,seemed,uncomfortable,seemed,1
+ID-0963,0,0,nmod,all,0,0,1
+ID-0963,0,0,nmod,all,of,staff,1
+ID-0963,0,0,neg  nmod  acl:relcl,amenities,0,0,1
+ID-0963,0,0,neg  nmod  acl:relcl,amenities,at,hotel,1
+ID-0963,I,hotel,nsubj  aux  neg  dobj  nmod,recommend,0,0,1
+ID-0963,I,hotel,nsubj  aux  neg  dobj  nmod,recommend,at,all,1
+ID-1005,I,0,nsubj  aux  neg  nmod  advmod,stay,0,0,1
+ID-1005,I,0,nsubj  aux  neg  nmod  advmod,stay,in,hotel,1
+ID-1005,0,0,det  nmod,decor,0,0,1
+ID-1005,0,0,det  nmod,decor,of,room,1
+ID-1005,it,0,mark  nsubjpass  aux  neg  auxpass  advmod  nmod,cleaned,0,0,1
+ID-1005,it,0,mark  nsubjpass  aux  neg  auxpass  advmod  nmod,cleaned,in,months,1
+ID-1005,0,0,det  nmod,defects,0,0,1
+ID-1005,0,0,det  nmod,defects,of,hotel,1
+ID-0949,0,0,mark  nmod  nmod  mark  nmod,stay,0,0,1
+ID-0949,0,0,mark  nmod  nmod  mark  nmod,stay,in,hotel,1
+ID-0949,0,0,mark  nmod  nmod  mark  nmod,stay,in,hotel,1
+ID-0949,0,0,mark  nmod  nmod  mark  nmod,stay,during,weekend,1
+ID-0949,0,0,mark  nmod  nmod  mark  nmod,stay,in,hotel,1
+ID-0949,0,0,mark  nmod  nmod  mark  nmod,stay,in,hotel,1
+ID-0949,room,towels,nsubj  dobj,had,0,0,1
+ID-0949,0,0,amod  nmod,towels,0,0,1
+ID-0949,0,0,amod  nmod,towels,dirty,towels,1
+ID-0949,0,0,amod  nmod,towels,in,it,1
+ID-0949,service,0,nsubj  cop  ccomp,horrible,0,0,1
+ID-0949,us,0,nsubj  nmod,transferred,0,0,1
+ID-0949,us,0,nsubj  nmod,transferred,to,room,1
+ID-1009,we,0,advmod  nsubj  nmod  ccomp,came,0,0,1
+ID-1009,we,0,advmod  nsubj  nmod  ccomp,came,into,room,1
+ID-1009,it,0,nsubjpass  aux  neg  auxpass  advcl,cleaned,0,0,1
+ID-1009,who,us,nsubj  dobj  nmod,moved,0,0,1
+ID-1009,who,us,nsubj  dobj  nmod,moved,to,room,1
+ID-1009,room,0,advmod  nsubj  nmod,smelled,0,0,1
+ID-1009,room,0,advmod  nsubj  nmod,smelled,like,smoke,1
+ID-1009,hotel,0,nsubj  cop  case  det  ccomp,location,0,0,1
+ID-0951,I,0,nsubj  nmod,booked,0,0,1
+ID-0951,I,0,nsubj  nmod,booked,at,hotel,1
+ID-0951,0,0,case  det  nmod,corner,0,0,1
+ID-0951,0,0,case  det  nmod,corner,of,hotel,1
+ID-0951,0,0,case  det  nmod,corner,of,hotel,1
+ID-0951,I,room,nsubjpass  auxpass  dobj  nmod,given,0,0,1
+ID-0951,I,room,nsubjpass  auxpass  dobj  nmod,given,on,corner,1
+ID-0951,0,hours,nmod  dobj,going,0,0,1
+ID-0951,0,hours,nmod  dobj,going,to,rooms,1
+ID-0951,hotel,0,nsubj  cop  neg  advmod  nmod,clean,0,0,1
+ID-0951,hotel,0,nsubj  cop  neg  advmod  nmod,clean,at,all,1
+ID-0951,hotel,0,nsubj  cop  neg  advmod  nmod,clean,0,0,1
+ID-0951,hotel,0,nsubj  cop  neg  advmod  nmod,clean,at,all,1
+ID-0909,room,0,nsubj  cop  neg  nmod  cc  conj,ready,0,0,1
+ID-0909,room,0,nsubj  cop  neg  nmod  cc  conj,ready,at,time,1
+ID-0901,rooms,0,nsubj  cop  advmod  cc  conj  nsubj  cop  advmod  advmod,sparse,0,0,1
+ID-0901,rooms,0,nsubj  cop  advmod  cc  conj  nsubj  cop  advmod  advmod,sparse,sparse,sparse,1
+ID-0901,rooms,0,nsubj  cop  advmod  cc  conj  nsubj  cop  advmod  advmod,sparse,0,0,1
+ID-0901,rooms,0,nsubj  cop  advmod  cc  conj  nsubj  cop  advmod  advmod,sparse,sparse,sparse,1
+ID-0841,0,0,dep  amod  compound  acl:relcl,spreadings,0,0,1
+ID-0841,0,0,dep  amod  compound  acl:relcl,spreadings,old,spreadings,1
+ID-0841,0,0,dep  amod  compound  acl:relcl,spreadings,thin,spreadings,1
+ID-0841,0,0,cc  conj,crumbs,0,0,1
+ID-0841,beds,0,nsubj  cop  neg  nmod,comfortable,0,0,1
+ID-0841,beds,0,nsubj  cop  neg  nmod,comfortable,at,all,1
+ID-0841,I,0,nsubj  cop  neg  advmod  nmod  cc  conj,happy,0,0,1
+ID-0841,I,0,nsubj  cop  neg  advmod  nmod  cc  conj,happy,with,room,1
+ID-1011,I,0,nsubj  nmod  advcl,stayed,0,0,1
+ID-1011,I,0,nsubj  nmod  advcl,stayed,at,hotel,1
+ID-0947,room,horribly,nsubj  dobj,smelled,0,0,1
+ID-0947,rooms,0,nsubj,available,0,0,1
+ID-1013,0,staff,dobj  ccomp,informed,0,0,1
+ID-1013,I,room,mark  nsubj  aux  dobj,need,0,0,1
+ID-1013,I,0,advmod  nsubj  nmod  ccomp,arrived,0,0,1
+ID-1013,I,0,advmod  nsubj  nmod  ccomp,arrived,to,hotel,1
+ID-1013,I,0,nsubjpass  auxpass  nmod,shown,0,0,1
+ID-1013,I,0,nsubjpass  auxpass  nmod,shown,to,room,1
+ID-1013,room,0,nsubj  cop  neg  advcl,available,0,0,1
+ID-1013,0,0,neg  nmod  cc  conj,towels,0,0,1
+ID-1013,0,0,neg  nmod  cc  conj,towels,in,room,1
+ID-1013,0,0,neg  nmod  cc  conj,towels,0,0,1
+ID-1013,0,0,neg  nmod  cc  conj,towels,in,room,1
+ID-0999,0,0,nmod,key,0,0,1
+ID-0999,0,0,nmod,key,to,room,1
+ID-0999,they,me,advmod  nsubj  dobj  nmod  ccomp  cc  conj,sent,0,0,1
+ID-0999,they,me,advmod  nsubj  dobj  nmod  ccomp  cc  conj,sent,to,room,1
+ID-0999,they,me,advmod  nsubj  dobj  nmod  ccomp  cc  conj,sent,dirty,sent,1
+ID-0999,beds,0,mark  nsubjpass  auxpass  neg,made,0,0,1
+ID-0999,it,0,nsubj  cop,dirty,0,0,1
+ID-0999,room,0,nsubj  cop  det:predet  det,problems,0,0,1
+ID-0999,We,0,nsubj  advmod  nmod  cc  conj  ccomp  dep  cc  conj,got,0,0,1
+ID-0999,We,0,nsubj  advmod  nmod  cc  conj  ccomp  dep  cc  conj,got,into,room,1
+ID-0999,We,0,nsubj  advmod  nmod  cc  conj  ccomp  dep  cc  conj,got,dirty,got,1
+ID-0999,We,0,nsubj  advmod  nmod  cc  conj  ccomp  dep  cc  conj,got,black,got,1
+ID-0999,it,0,nsubj  cop  advmod,dirty,0,0,1
+ID-0999,I,0,advmod  nsubj  compound:prt  nmod,walked,0,0,1
+ID-0999,I,0,advmod  nsubj  compound:prt  nmod,walked,of,room,1
+ID-0999,staff,0,nsubj  cop,rude,0,0,1
+ID-1033,0,0,case  det  compound,upfront,0,0,1
+ID-1033,room,0,mark  nsubj  cop  advmod,dirty,0,0,1
+ID-1033,room,0,mark  nsubj  cop  advmod,dirty,0,0,1
+ID-1033,0,0,expl  auxpass  nmod,popcorn,0,0,1
+ID-1033,0,0,expl  auxpass  nmod,popcorn,in,sheets,1
+ID-1033,bed,0,nsubj  advmod,was,0,0,1
+ID-1033,floor,0,nsubjpass  aux  neg  auxpass  ccomp  cc  conj,cleaned,0,0,1
+ID-1033,0,room,mark  dobj  advmod,clean,0,0,1
+ID-1033,someone,0,advcl  nsubj  xcomp,came,0,0,1
+ID-0961,We,room,nsubj  dobj,booked,0,0,1
+ID-0961,room,0,nsubj  cop  case  det  amod,floor,0,0,1
+ID-0961,room,0,nsubj  cop  case  det  amod,floor,fourth,floor,1
+ID-0961,I,services,advmod  nsubj  dobj  nmod,called,0,0,1
+ID-0961,I,services,advmod  nsubj  dobj  nmod,called,from,room,1
+ID-0961,that,food,nsubj  dobj  nmod,delivered,0,0,1
+ID-0961,that,food,nsubj  dobj  nmod,delivered,to,hotel,1
+ID-0961,that,food,nsubj  dobj  nmod,delivered,0,0,1
+ID-0961,that,food,nsubj  dobj  nmod,delivered,to,hotel,1
+ID-0961,0,0,case  det  compound,keys,0,0,1
+ID-0961,that,0,nsubjpass  auxpass  neg  nmod,advertised,0,0,1
+ID-0961,that,0,nsubjpass  auxpass  neg  nmod,advertised,by,hotel,1
+ID-0961,hotel,0,nsubj  advcl,boasts,0,0,1
+ID-0961,0,service,aux  neg  dobj  nmod,expect,0,0,1
+ID-0961,0,service,aux  neg  dobj  nmod,expect,at,diner,1
+ID-0961,0,0,cop,dirty,0,0,1
+ID-0961,0,0,nmod,good,0,0,1
+ID-0961,0,0,nmod,good,about,hotel,1
+ID-0835,0,0,nmod,most,0,0,1
+ID-0835,0,0,nmod,most,of,hotels,1
+ID-0835,0,0,nmod:npmod  nmod,all,0,0,1
+ID-0835,0,0,nmod:npmod  nmod,all,to,hotel,1
+ID-0835,room,0,advmod  nsubj,was,0,0,1
+ID-0835,0,0,dep,how,0,0,1
+ID-0835,0,0,dep,how,dirty,how,1
+ID-0835,0,0,case  nmod:poss  nmod,bed,0,0,1
+ID-0835,0,0,case  nmod:poss  nmod,bed,near,sheets,1
+ID-0835,0,0,cc  conj  conj,many,0,0,1
+ID-0835,I,0,advmod  nsubj  advmod  nmod  cc  conj,looked,0,0,1
+ID-0835,I,0,advmod  nsubj  advmod  nmod  cc  conj,looked,at,bed,1
+ID-0835,I,room,advcl  nsubj  dobj,demanded,0,0,1
+ID-0835,room,0,mark  nsubj  cop  neg  advmod  nmod,clean,0,0,1
+ID-0835,room,0,mark  nsubj  cop  neg  advmod  nmod,clean,last,clean,1
+ID-0835,room,0,mark  nsubj  cop  neg  advmod  nmod,clean,than,last,1
+ID-0835,room,0,mark  nsubj  cop  neg  advmod  nmod,clean,0,0,1
+ID-0835,room,0,mark  nsubj  cop  neg  advmod  nmod,clean,last,clean,1
+ID-0835,room,0,mark  nsubj  cop  neg  advmod  nmod,clean,than,last,1
+ID-0835,0,0,case  amod  nmod,bedbugs,0,0,1
+ID-0835,0,0,case  amod  nmod,bedbugs,many,bedbugs,1
+ID-0835,0,0,case  amod  nmod,bedbugs,in,bed,1
+ID-0893,Carolina,0,nmod  nsubj  cop  advmod  cc  conj,inexpensive,0,0,1
+ID-0893,Carolina,0,nmod  nsubj  cop  advmod  cc  conj,inexpensive,in,Charleston,1
+ID-0893,it,0,mark  nsubj  cop  neg  advmod  nmod  advcl,close,0,0,1
+ID-0893,it,0,mark  nsubj  cop  neg  advmod  nmod  advcl,close,to,downtown,1
+ID-0893,room,0,nsubj  cop  neg  advcl,ready,0,0,1
+ID-0893,room,0,nsubj  advmod  cop  neg,ready,0,0,1
+ID-0893,you,what,dobj  nsubj  aux  nmod,expect,0,0,1
+ID-0893,you,what,dobj  nsubj  aux  nmod,expect,from,hotel,1
+ID-0893,we,0,advmod  nsubj  advmod  nmod,got,0,0,1
+ID-0893,we,0,advmod  nsubj  advmod  nmod,got,into,room,1
+ID-0893,0,0,amod  compound,products,0,0,1
+ID-0893,0,0,amod  compound,products,cheap,products,1
+ID-0893,We,room,nsubj  dobj,had,0,0,1
+ID-0817,hotel,walls,nsubj  dobj,has,0,0,1
+ID-0803,0,0,mark  nmod,stay,0,0,1
+ID-0803,0,0,mark  nmod,stay,in,hotel,1
+ID-0803,room,0,nsubj  cop  cc  conj  nmod,small,0,0,1
+ID-0803,room,0,nsubj  cop  cc  conj  nmod,small,dirty,small,1
+ID-0803,room,0,nsubj  cop  cc  conj  nmod,small,with,decor,1
+ID-0803,room,0,nsubj  cop  cc  conj  nmod,small,0,0,1
+ID-0803,room,0,nsubj  cop  cc  conj  nmod,small,dirty,small,1
+ID-0803,room,0,nsubj  cop  cc  conj  nmod,small,with,decor,1
+ID-0811,hotel,0,nsubj  det  compound  cop  det  amod  amod  acl:relcl,hotel,0,0,1
+ID-0811,hotel,0,nsubj  det  compound  cop  det  amod  amod  acl:relcl,hotel,absolute,hotel,1
+ID-0811,hotel,0,nsubj  det  compound  cop  det  amod  amod  acl:relcl,hotel,worst,hotel,1
+ID-0811,It,service,nsubj  dobj,had,0,0,1
+ID-0811,0,0,case  compound  compound  cc  conj,dishes,0,0,1
+ID-0811,0,0,case  compound  compound  cc  conj,dishes,0,0,1
+ID-0811,0,0,det  amod  nmod,left,0,0,1
+ID-0811,0,0,det  amod  nmod,left,same,left,1
+ID-0811,0,0,det  amod  nmod,left,over,food,1
+ID-0811,0,0,nmod,smoke,0,0,1
+ID-0811,0,0,nmod,smoke,in,rooms,1
+ID-0811,lights,0,mark  nsubjpass  aux  auxpass  nmod  nmod,seen,0,0,1
+ID-0811,lights,0,mark  nsubjpass  aux  auxpass  nmod  nmod,seen,in,rooms,1
+ID-0811,lights,0,mark  nsubjpass  aux  auxpass  nmod  nmod,seen,with,curtains,1
+ID-0811,casino,0,nsubj  cop  case  det  amod  compound,room,0,0,1
+ID-0811,casino,0,nsubj  cop  case  det  amod  compound,room,old,room,1
+ID-0987,Hotel,0,nsubj  cop  det  amod,disappointment,0,0,1
+ID-0987,Hotel,0,nsubj  cop  det  amod,disappointment,huge,disappointment,1
+ID-0987,0,hotel,cc  aux  dobj  ccomp,informed,0,0,1
+ID-0987,0,0,case  det  amod  dep  cc  conj,hour,0,0,1
+ID-0987,0,0,case  det  amod  dep  cc  conj,hour,later,hour,1
+ID-0987,0,rooms,mark  dobj,find,0,0,1
+ID-0987,0,bed,dobj,need,0,0,1
+ID-0987,hotel,reservation,nmod  nsubj  dobj  cc  conj,had,0,0,1
+ID-0987,hotel,reservation,nmod  nsubj  dobj  cc  conj,had,From,go,1
+ID-0987,hotel,reservation,nmod  nsubj  dobj  cc  conj,had,disrespectful,had,1
+ID-0987,We,everything,nsubj  aux  dobj  nmod  cc  conj,hear,0,0,1
+ID-0987,We,everything,nsubj  aux  dobj  nmod  cc  conj,hear,from,rooms,1
+ID-0987,We,everything,nsubj  aux  dobj  nmod  cc  conj,hear,ugly,hear,1
+ID-0987,0,0,compound:prt  nmod,Stay,0,0,1
+ID-0987,0,0,compound:prt  nmod,Stay,from,hotel,1
+ID-0929,I,hotel,advmod  nsubj  dobj,visited,0,0,1
+ID-0929,I,0,advmod  mark  nsubj  nmod,got,0,0,1
+ID-0929,I,0,advmod  mark  nsubj  nmod,got,to,room,1
+ID-0929,0,0,det  nmod,rest,0,0,1
+ID-0929,0,0,det  nmod,rest,of,hotel,1
+ID-0929,room,0,nsubj  cop  advmod  case  det  ccomp,quality,0,0,1
+ID-0929,I,0,nsubj  aux  aux  advmod  nmod,expected,0,0,1
+ID-0929,I,0,nsubj  aux  aux  advmod  nmod,expected,from,hotel,1
+ID-0929,0,0,det  amod  amod  nmod,thing,0,0,1
+ID-0929,0,0,det  amod  amod  nmod,thing,other,thing,1
+ID-0929,0,0,det  amod  amod  nmod,thing,surprising,thing,1
+ID-0929,0,0,det  amod  amod  nmod,thing,about,hotel,1
+ID-0929,thing,0,nsubj  cop  det,staff,0,0,1
+ID-0929,I,0,advmod  nsubj  advmod  nmod,came,0,0,1
+ID-0929,I,0,advmod  nsubj  advmod  nmod,came,to,room,1
+ID-0929,0,me,dobj  nmod,let,0,0,1
+ID-0929,0,me,dobj  nmod,let,in,room,1
+ID-0929,that,0,nsubj  aux  nmod,knocking,0,0,1
+ID-0929,that,0,nsubj  aux  nmod,knocking,on,room,1
+ID-0929,I,0,nsubj  aux  neg  compound:prt  nmod,go,0,0,1
+ID-0929,I,0,nsubj  aux  neg  compound:prt  nmod,go,to,hotel,1
+ID-0801,room,0,nsubj  cc  conj,felt,0,0,1
+ID-0801,0,0,xcomp,smelled,0,0,1
+ID-0801,0,0,xcomp,smelled,dirty,smelled,1
+ID-0801,0,0,nmod,re-purpose,0,0,1
+ID-0801,0,0,nmod,re-purpose,as,room,1
+ID-0801,hotel,taste,mark  nsubj  advmod  dobj  cc  conj,had,0,0,1
+ID-0801,0,0,case  det  amod  nmod,levels,0,0,1
+ID-0801,0,0,case  det  amod  nmod,levels,sanitary,levels,1
+ID-0801,0,0,case  det  amod  nmod,levels,of,room,1
+ID-0923,0,0,case  nmod:poss  compound,room,0,0,1
+ID-0923,0,0,case  nmod,insects,0,0,1
+ID-0923,0,0,case  nmod,insects,in,room,1
+ID-0923,0,0,nummod  compound,establishments,0,0,1
+ID-0923,0,0,case  det  compound,area,0,0,1
+ID-0923,0,0,dep  det  cc  conj  acl:relcl,maids,0,0,1
+ID-0923,0,room,dobj  advcl  advcl,enter,0,0,1
+ID-0923,0,0,compound,staff,0,0,1
+ID-0923,I,0,nsubj  aux  neg  aux  nmod  advcl,returning,0,0,1
+ID-0923,I,0,nsubj  aux  neg  aux  nmod  advcl,returning,to,hotel,1
+ID-0871,This,0,nsubj  cop  nmod:poss  amod  nmod,stay,0,0,1
+ID-0871,This,0,nsubj  cop  nmod:poss  amod  nmod,stay,first,stay,1
+ID-0871,This,0,nsubj  cop  nmod:poss  amod  nmod,stay,at,hotel,1
+ID-0871,room,window,mark  nsubj  aux  neg  dobj,have,0,0,1
+ID-0871,0,0,mark  advmod  nmod,looking,0,0,1
+ID-0871,0,0,mark  advmod  nmod,looking,in,bed,1
+ID-0871,0,0,mark  advmod  nmod,looking,at,bed,1
+ID-0871,0,0,case  det  compound  acl:relcl,staff,0,0,1
+ID-0871,0,0,mark  nmod,complaining,0,0,1
+ID-0871,0,0,mark  nmod,complaining,to,staff,1
+ID-0871,I,hotel,nsubj  aux  advmod  neg  dobj  nmod,recommend,0,0,1
+ID-0871,I,hotel,nsubj  aux  advmod  neg  dobj  nmod,recommend,to,anyone,1
+ID-0871,0,0,case  det  cc  conj,heat,0,0,1
+ID-0871,room,0,mark  nsubj  aux  xcomp,bake,0,0,1
+ID-0871,room,0,mark  nsubj  aux  xcomp,bake,alive,bake,1
+ID-0795,hotel,0,nsubj  cop,mediocre,0,0,1
+ID-0795,It,0,nsubjpass  auxpass  neg  advmod  nmod,priced,0,0,1
+ID-0795,It,0,nsubjpass  auxpass  neg  advmod  nmod,priced,for,service,1
+ID-0795,food,0,nsubjpass  auxpass  neg  advmod  dep,prepared,0,0,1
+ID-0795,room,carpet,nsubj  dobj,had,0,0,1
+ID-0795,bed,0,nsubjpass  auxpass  cc  conj,ok,0,0,1
+ID-0795,bathroom,0,nsubj  advmod  advmod,was,0,0,1
+ID-0899,0,0,case  nmod:poss  compound,room,0,0,1
+ID-0899,their,0,mark  nsubj  cop  nmod,insects,0,0,1
+ID-0899,their,0,mark  nsubj  cop  nmod,insects,in,room,1
+ID-0899,it,0,nsubj  xcomp,seemed,0,0,1
+ID-0899,it,0,nsubj  xcomp,seemed,dirty,seemed,1
+ID-0969,0,room,mark  dobj,purchase,0,0,1
+ID-0969,rooms,0,advcl  nsubj  cop  ccomp  cc  conj,not,0,0,1
+ID-0969,0,0,nmod,one,0,0,1
+ID-0969,0,0,nmod,one,of,rooms,1
+ID-0969,0,0,case  compound  compound  nmod,fees,0,0,1
+ID-0969,0,0,case  compound  compound  nmod,fees,for,meals,1
+ID-0969,0,0,case  compound  compound  nmod,fees,0,0,1
+ID-0969,0,0,case  compound  compound  nmod,fees,for,meals,1
+ID-0969,0,cards,dobj  advmod,watch,0,0,1
+ID-0969,rooms,0,nsubjpass  auxpass  cc  conj,dated,0,0,1
+ID-0969,rooms,0,nsubjpass  auxpass  cc  conj,dated,gross,dated,1
+ID-0969,0,0,det  nmod,location,0,0,1
+ID-0969,0,0,det  nmod,location,of,rooms,1
+ID-0849,hotel,0,nsubj  det  compound  compound  nmod  cop  neg  advmod  det  ccomp,hotel,0,0,1
+ID-0849,hotel,0,nsubj  det  compound  compound  nmod  cop  neg  advmod  det  ccomp,hotel,in,Nevada,1
+ID-0849,hotel,0,cc  nsubj  cop  advmod  det,mess,0,0,1
+ID-0849,food,0,nsubj  cop  advmod,horrible,0,0,1
+ID-0849,they,0,nsubj  cop  advmod,closed,0,0,1
+ID-0849,it,0,nsubj  advmod  nmod,shows,0,0,1
+ID-0849,it,0,nsubj  advmod  nmod,shows,in,rooms,1
+ID-0967,room,0,nsubj  cop  neg  ccomp,clean,0,0,1
+ID-0967,room,0,nsubj  cop  neg  ccomp,clean,0,0,1
+ID-0967,Airplanes,0,nsubj  advmod  nmod,roared,0,0,1
+ID-0967,Airplanes,0,nsubj  advmod  nmod,roared,above,room,1
+ID-0967,0,0,case  compound,amenities,0,0,1
+ID-0967,0,0,cc  conj,service,0,0,1
+ID-0967,area,0,nsubj  cop  advmod  neg,clean,0,0,1
+ID-0981,I,0,nsubjpass  auxpass  nmod,disappointed,0,0,1
+ID-0981,I,0,nsubjpass  auxpass  nmod,disappointed,at,hotel,1
+ID-0981,I,0,nsubjpass  auxpass  nmod,disappointed,with,hotel,1
+ID-0981,0,0,cc  conj  dep,out,0,0,1
+ID-0981,0,0,cc  conj  dep,out,expensive,out,1
+ID-0981,0,0,case  nmod:poss  amod,policy,0,0,1
+ID-0981,0,0,case  nmod:poss  amod,policy,corporate,policy,1
+ID-0981,hotel,0,nsubjpass  auxpass  nmod,stuck,0,0,1
+ID-0981,hotel,0,nsubjpass  auxpass  nmod,stuck,in,warp,1
+ID-0981,rooms,updates,advcl  nsubj  dobj,lack,0,0,1
+ID-0981,room,towels,nmod  nsubj  aux  neg  dobj,have,0,0,1
+ID-0981,room,towels,nmod  nsubj  aux  neg  dobj,have,On,occassion,1
+ID-0981,hotel,this,advmod  nsubj  aux  dobj  dep,fix,0,0,1
+ID-0981,it,lack,cc  nsubj  dobj  nmod,shows,0,0,1
+ID-0981,it,lack,cc  nsubj  dobj  nmod,shows,to,room,1
+ID-0981,beds,0,nsubj  cc  conj,uncomfortable,0,0,1
+ID-0981,beds,0,nsubj  cc  conj,uncomfortable,lumpy,uncomfortable,1
+ID-0799,seminar,0,nsubjpass  aux  auxpass  nmod  advcl,held,0,0,1
+ID-0799,seminar,0,nsubjpass  aux  auxpass  nmod  advcl,held,in,hotel,1
+ID-0799,0,0,nmod:poss  compound,keys,0,0,1
+ID-0799,0,0,neg  nmod,complaints,0,0,1
+ID-0799,0,0,neg  nmod,complaints,about,cleanliness,1
+ID-0799,I,0,nsubj  advmod  nmod  xcomp,went,0,0,1
+ID-0799,I,0,nsubj  advmod  nmod  xcomp,went,to,room,1
+ID-0799,0,service,dobj  cc  conj,called,0,0,1
+ID-0799,0,0,compound,service,0,0,1
+ID-0799,0,0,nmod,went,0,0,1
+ID-0799,0,0,nmod,went,to,bed,1
+ID-0799,I,room,nmod:tmod  nsubj  dobj  nmod  cc  conj,left,0,0,1
+ID-0799,I,room,nmod:tmod  nsubj  dobj  nmod  cc  conj,left,for,function,1
+ID-0799,service,0,nsubj  xcomp,seem,0,0,1
+ID-0799,0,0,det  nmod,location,0,0,1
+ID-0799,0,0,det  nmod,location,of,hotel,1
+ID-0799,0,0,case  det  amod  cc  conj,Quarter,0,0,1
+ID-0799,0,0,case  det  amod  cc  conj,Quarter,French,Quarter,1
+ID-0957,I,hotel,nsubj  dobj  nmod:tmod  advcl,booked,0,0,1
+ID-0957,hotel,0,nsubj  cop  nummod  nmod,minutes,0,0,1
+ID-0957,hotel,0,nsubj  cop  nummod  nmod,minutes,from,Philly,1
+ID-0957,hotel,0,nsubj  cop  advmod  det  amod  nmod,drive,0,0,1
+ID-0957,hotel,0,nsubj  cop  advmod  det  amod  nmod,drive,from,area,1
+ID-0957,I,room,advcl  parataxis  nsubj  advcl  nsubj  iobj  dobj,gave,0,0,1
+ID-0957,0,0,det  nmod,door,0,0,1
+ID-0957,0,0,det  nmod,door,to,room,1
+ID-0957,0,us,mark  dobj  nmod,switch,0,0,1
+ID-0957,0,us,mark  dobj  nmod,switch,to,room,1
+ID-0809,We,0,nsubj  nmod  nmod,arrived,0,0,1
+ID-0809,We,0,nsubj  nmod  nmod,arrived,at,hotel,1
+ID-0809,We,0,nsubj  nmod  nmod,arrived,about,pm,1
+ID-0809,0,hotel,neg  dobj,blaming,0,0,1
+ID-0809,we,0,advmod  nsubj  compound:prt  nmod  cc  conj,went,0,0,1
+ID-0809,we,0,advmod  nsubj  compound:prt  nmod  cc  conj,went,to,room,1
+ID-1007,hotel,US,mark  nsubj  aux  aux  dobj,paid,0,0,1
+ID-1007,0,0,case  nmod:poss,website,0,0,1
+ID-1007,0,0,case  nmod:poss,website,s,hotel,1
+ID-1007,0,0,compound:prt  nmod,got,0,0,1
+ID-1007,0,0,compound:prt  nmod,got,to,room,1
+ID-1007,room,things,advcl  nsubj  dobj,had,0,0,1
+ID-1007,0,0,nmod:poss  compound  compound  compound,holder,0,0,1
+ID-1007,0,room,mark  dobj  nmod,ignore,0,0,1
+ID-1007,0,room,mark  dobj  nmod,ignore,by,downstairs,1
+ID-1007,service,0,nsubj  cop  advmod  cc  conj,slow,0,0,1
+ID-1007,service,0,nsubj  cop  advmod  cc  conj,slow,tasteless,slow,1
+ID-1007,food,0,nsubj  cop,tasteless,0,0,1
+ID-1007,food,0,nsubjpass  auxpass  nmod  cc  conj,covered,0,0,1
+ID-1007,food,0,nsubjpass  auxpass  nmod  cc  conj,covered,in,vinegar,1
+ID-1007,food,0,nsubjpass  auxpass  nmod  cc  conj,covered,disgusting,covered,1
+ID-1007,0,0,case  det  nummod  case  nmod:poss  nmod,meals,0,0,1

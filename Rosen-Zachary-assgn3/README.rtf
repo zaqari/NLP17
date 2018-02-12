@@ -1,0 +1,14 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 PRIMA FACIE NOTES ON IMPLEMENTATION\
+\
+Given that the full system is massively connected, it was worthwhile to split it into two systems that run concurrently. I have taken the liberty of including all training data as well, but the breakdown of the data-flow is as follows:\
+\
+(1) begin by using datapackager.py. To run the system, enter build_pred_data( ) which takes a pandas data frame of input data with document \'91ID\'92 and \'91text\'92 as columns. This will generate a new file consisting of the dependency collected data, as well as the document ID for each sentence that the system analyzes.\
+\
+(2) after running datapackager.py, you can now run KellyGEN_sentential_polarity, after setting a file path for the following variables: Train_Data2 (where Train_Data2 is the directory for your training data), and pred_data (where pred_data is the directory for the data you wish to make predictions from, finalized in an output file of responses in .txt form.).}
